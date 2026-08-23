@@ -1,1 +1,49 @@
+1. Architecture Choice (8 Marks)
+
+Should the University of Mauritius adopt a public permissionless blockchain (e.g., public Ethereum or Polygon) or a private permissioned blockchain (e.g., a consortium network hosted across public universities in Mauritius like UoM, UTM, and Open University of Mauritius using Hyperledger Fabric)?
+
+Justify your recommended architecture considering:
+
+Privacy: Protecting student records under local compliance standards.
+
+Cost: Handling gas fees or node maintenance infrastructure within a university budget in Mauritian Rupees (MUR).
+
+Trust & Verifiability: Ensuring global employers and domestic institutions can independently trust the degree records without relying on UoM's IT servers remaining online forever.
+
+
+
+
+
+
+
+
+2. Workflow & Verification Process (10 Marks)
+
+Outline the end-to-end workflow for issuing and verifying a UoM digital degree. Describe the step-by-step procedure for:
+
+Issuance: How the UoM Examinations Office signs and issues the graduate's credential.
+
+On-Chain Recording: What exact data or cryptographic proof gets committed to the ledger.
+
+Verification: How a HR manager at a company in Ébène Cybercity or an international university verifies the authenticity of the candidate's degree in seconds without contacting the UoM Registry.
+
+
+
+
+
+
+
+
+3. Privacy & Mauritian Regulatory Compliance (7 Marks)
+
+Under the Mauritius Data Protection Act 2017 (DPA); which heavily aligns with the European Union's GDPR (citizens have the Right to Erasure ("Right to be Forgotten") managed by the Data Protection Office (DPO) of Mauritius.)
+
+Explain how the immutable, unalterable nature of blockchain conflicts with the DPA 2017 requirements if a student requests the deletion of their personal educational records.
+
+Propose an architectural solution combining off-chain data storage (e.g., decentralized storage or secure UoM databases) and on-chain cryptographic hashes to ensure strict DPA compliance while preserving the degree's tamper-proof verifiability.
+
+
+
+
+
 
