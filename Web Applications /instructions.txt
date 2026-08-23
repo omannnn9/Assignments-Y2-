@@ -1,1 +1,56 @@
+WEB DEVELOPMENT LEVEL 2
+Assignment: Design and Development of a Fully Functional Business Website
+Total Marks: 30
 
+1. Background
+In this modern day and age, websites play an important role in the success and development of
+businesses. However, many small and medium-sized enterprises do not yet have appropriate
+information systems to support their business activities.
+If a company wants to enter the global market, digitalisation has become increasingly important. A
+professional website can provide an organisation with a global online presence and allow customers
+to access information about the company, its products, services and activities at any time.
+Websites can help businesses to:
+ Increase their visibility.
+ Reach local and international customers.
+ Promote their products and services.
+ Communicate with customers.
+ Build a professional corporate image.
+ Provide information about business activities.
+ Generate customer enquiries.
+ Improve customer engagement.
+ Support business growth.
+
+2. Business Scenario
+You are working as an IT Specialist/Web Developer.
+You have been approached by a rapidly growing company called XYZ Master, situated in Port Louis,
+Mauritius. The owner of the company is Mr Alex.
+XYZ Master wants to improve its digital presence and reach a larger number of customers. At
+present, the company does not have a comprehensive website through which customers can obtain
+information about the business.
+Mr Alex has therefore requested you to design and develop a fully functional website for XYZ
+Master.
+The website will be used to:
+1. Disseminate information about XYZ Master.
+2. Present the company&#39;s products and/or services.
+
+3. Provide information about business activities.
+4. Provide company contact information.
+5. Allow customers to submit enquiries online.
+6. Store customer enquiries in a database.
+7. Allow the owner/administrator to view submitted enquiries.
+8. Provide a professional and responsive online presence.
+The website must contain both a front end and a back end.
+
+3. Assignment Task
+As the IT specialist, you are required to analyse, design and develop a fully functional website for
+XYZ Master.
+You must use the following technologies:
+Front End
+ HTML5
+ CSS3
+ JavaScript
+Back End
+ PHP
+ MySQL
+The website must be functional and demonstrate interaction between the front end, PHP server-side
+processing and MySQL database.
