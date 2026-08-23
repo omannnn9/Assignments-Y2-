@@ -1,1 +1,124 @@
+CASE STUDY
+MyLib — Public Library Information System
 
+MyLib is a public library which serves two types of visitors: Members who come for
+walk-in services and members who come on pre-booked study room reservations.
+Walk-in services are available from 08.00 am to 20.00 pm Monday to Saturday, while
+study room reservations are available from 09.00 am to 17.00 pm Monday to Friday.
+When a visitor arrives for walk-in services, he goes to the front desk to register using his
+National Identity Card (NIC). He is asked for his name, address, date of birth and
+contact number and is given a membership card. After registration, members are
+required to speak to the Library Assistant who asks them the purpose of their visit to the
+library. The Library Assistant makes a note on the member’s card and directs the
+member to the appropriate section.
+When a Librarian attends to a member, he looks at the note made by the Library
+Assistant and checks the member’s request. He then processes the request: If the
+member wishes to borrow a book that is not available on the shelves, the Librarian
+checks the catalogue system to determine if the book is available at another branch. If
+available at another branch, the Librarian initiates an Inter-Library Loan (ILL) request
+with a note specifying the book details, otherwise he suggests alternative titles to the
+member.
+For members requiring an inter-library loan, after the request is processed and after
+receiving confirmation from the other branch, the Librarian will notify the member of the
+expected collection date. If the book is unavailable at all branches, the Librarian will
+place a reservation and notify the member when the book becomes available.
+If the member wishes to borrow a book available on the shelves, the Librarian scans the
+book and the membership card to record the loan. At the end of a visit, if a member
+needs to collect an inter-library loan book or has a reservation, the Librarian will put a
+note on the member’s card and ask him to go back to the front desk to book a collection
+appointment.
+Members attending pre-booked study room reservations need to go to the front desk to
+notify the receptionist that they have arrived. After checking the name of the person in
+the reservation book, the receptionist provides the member with a room key and directs
+him to the assigned study room. After the session, the member returns the key to the
+front desk. If the member needs a follow-up reservation, he needs to go to the front desk
+again to make a new booking.
+Whenever a member comes to the front desk for a reservation, the receptionist asks for
+his NIC and the preferred date, time and room type (individual or group study room).
+The receptionist will then verify in the reservation book the availability of the room and
+propose a reservation day and time to the member. Once the reservation is agreed
+upon, the receptionist notes it down alongside the member’s name and contact number.
+Members can also book a study room by calling the library or by sending an email to the
+front desk.
+
+Page | 1
+
+Questions:
+(a) Draw the Collaboration Diagram for MyLib. [5 Marks].
+(b) Draw the Process Diagram for Member Services (Walk-in). [10 marks]
+Hint: you should consider the following:
+• Use of proper notations
+• Registration & Library Assistant assessment
+• Librarian processing, Inter-Library Loan & Reservation
+(c) Draw the Process Diagram for Members Who Come on Pre-Booked Study Room
+Reservations. [7 Marks]
+(d) Identify three weaknesses in the current library processes and recommend
+improvements that could be implemented through the MyLib Information System. [3
+Marks]
+
+Submission Requirements:
+● All diagrams must be created using ARIS.
+● Students must form groups of up to 5 members for the group report and
+presentation.
+● Each group will be allocated a maximum of 15 minutes for the presentation. The
+presentation schedule will be communicated during the Week 8 lecture
+● The reflective report is an individual assessment and must be submitted
+separately by each student.
+● Each student must submit a one-page reflective report.
+
+Late Submission:
+● Assignments submitted after the specified deadline will be subject to a penalty of
+5% of the total available marks per day, including weekends and public holidays.
+● Assignments submitted more than five (5) days late will not be accepted and will
+receive a mark of zero, unless prior approval for an extension has been granted.
+● Requests for extensions must be supported by appropriate documentation and
+submitted before the due date whenever possible.
+
+Page | 2
+
+Assignment Schedule:
+
+Deliverables Due Marks
+Draft submission 1 Week 6 2.5
+Draft submission 2 Week 8 2.5
+PowerPoint Presentation Week 9 and 10 5
+Individual reflective Report Week 11 5
+Group Report Week 11 25
+Total 40
+Final Weighting: 16% of the course mark.
+
+Assessment Rubric (Total: 40 Marks)
+1. Draft Submission 1 (2.5 Marks)
+
+Criteria Marks
+Understanding of the case study and identification of key actors/processes 1.0
+Initial Collaboration Diagram drafted using appropriate UML notation 1.0
+Submission quality, completeness, and adherence to guidelines 0.5
+2. Draft Submission 2 (2.5 Marks)
+
+Criteria Marks
+Evidence of incorporating feedback from Draft 1 1.0
+Improvement in diagram quality, notation, and completeness 1.0
+Readiness for final submission 0.5
+
+3. PowerPoint Presentation (5 Marks)
+
+Criteria Marks
+Organization and clarity of presentation 1.0
+Demonstration of understanding of the case study 1.5
+Explanation of diagrams and modelling decisions 1.5
+Professionalism, teamwork, and ability to answer questions 1.0
+4. Individual Reflective Report (5 Marks)
+
+Criteria Marks
+Reflection on individual contribution to the group assignment 1.5
+Discussion of knowledge and skills acquired 1.5
+Critical evaluation of challenges encountered and lessons learned 1.0
+Clarity, structure, and adherence to the one-page limit 1.0
+5. Group Report (25 Marks)
+
+Criteria Marks
+UML Collaboration Diagram (correct notation, interactions, and message sequencing) 5.0
+Process Diagram: Walk-in Member Services 10.0
+Process Diagram: Pre-Booked Study Room Reservations 7.0
+Weakness and improvement recommendation 3.0
