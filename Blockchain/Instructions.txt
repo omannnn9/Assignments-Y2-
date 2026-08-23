@@ -1,1 +1,54 @@
+University of Mauritius
 
+Faculty of Information, Communication and Digital Technologies (FoICDT) /FLM
+Module Code: ICT2204(3)
+Module Title: BLOCKCHAIN TECHNOLOGIES
+AND CLOUD COMPUTING
+Academic Year: 2025/2026 – Semester 1
+Assessment Type: Continuous Assessment (CA) – Group Assignment
+Weighting: 20% of Total Module Mark
+Total Marks: 25 Marks
+Assignment Submission Guidelines & Instructions
+1. General Logistics & Submission Details
+● Submission Deadline: Week 7 (20th September 2026) by 16:00 (Local Mauritius
+Time)
+● Submission Mode: Electronic submission via UoM Google Classroom
+● Cover Page Requirement: Every submission MUST include the standard UoM
+Assignment Cover Sheet (ACS) completely filled in with:
+○ Students Names & Student ID (ID Number)
+○ Programme of Study (e.g., BSc (Hons) Computer Science, BSc (Hons) Applied
+Computing)
+○ Module Code & Module Title
+○ Lecturer/Tutor Name
+2. Submission Format & Word Count
+● File Format: A single PDF document ([StudentID]_[ModuleCode]_Assignment1.pdf).
+● Formatting Requirements:
+○ Font: Times New Roman (12 pt) or Arial (11 pt)
+○ Line Spacing: 1.5 lines
+○ Margins: Standard 1 inch (2.54 cm) on all sides
+○ Page Numbers: Bottom center or bottom right (e.g., Page X of Y)
+● Word Count:
+○ Part A (Theory & Analysis): 800 – 1,200 words .
+○ Part B (Practical System Design): Diagrams, architectural workflows, and
+structured explanatory text.
+
+3. Referencing & Academic Integrity (UoM Standards)
+● Referencing Style: You must strictly follow the UoM Harvard System of Referencing
+for all in-text citations and the concluding Reference List.
+
+○ In-Text Citation Example: According to local financial regulations (Bank of
+Mauritius 2024)... or (Nakamoto 2008, p. 3).
+○ Reference List Format: Must be arranged alphabetically by author surname at the
+end of the assignment.
+● Plagiarism & Generative AI Policy:
+○ All submissions will be passed through Turnitin. A similarity index exceeding
+20% (excluding references) or clear evidence of unacknowledged AI generation
+will be subjected to the UoM Disciplinary Committee for academic misconduct.
+
+4. Late Submission Penalties (UoM Regulations)
+In accordance with University of Mauritius Senate regulations:
+● Late Submissions: Assignments submitted after the deadline without prior approved
+extension by the Lecturer/Head of Department will incur a deduction of 5% of total
+allocated marks per working day late.
+● Submissions delayed by more than 5 working days past the Week 7 deadline will
+receive a mark of 0% (Grade F).
