@@ -2,6 +2,8 @@ ICT2204(3) Blockchain Technologies & Cloud Computing
 Assignment Breakdown — What You Actually Need to Do
 Total: 25 marks
 
+ChatGPT Link to full breakdown : https://chatgpt.com/share/6a8c692d-be1c-83ea-baf0-7d995a559255
+
 | Part  | Topic                        |  Marks | What you need to produce                                                |
 | ----- | ---------------------------- | -----: | ----------------------------------------------------------------------- |
 | **1** | Architecture Choice          |  **8** | Compare public vs private blockchain and recommend one                  |
@@ -32,7 +34,7 @@ UoM could issue a digital degree credential.
 
 For example:
 
-Yohann Babbea
+Bhaav Moorut
 Bachelor of Science (Hons) FinTech
 University of Mauritius
 Awarded: 2026
@@ -47,8 +49,7 @@ The important idea is:
 
 Blockchain proves that the credential has not been altered since it was issued.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
