@@ -1,1 +1,465 @@
+WAA BAN PILON, PAS SERVI AI APRES BOUR SA AR NOUS, PU SUBMIT LOR TURNITIN SA GGT LA.
+YEAR 2 LA ARET AMENE ROL GOPIA APRES DIRE CPA P BESSER. MANZ AR MAMA LA SERYER SERYER.
+KUMSA EXAMEN NOUS PENA BEL STRESS LRLA.
 
+DEADLINE: 7 septembre (Bzn fini tout)
+
+Student: Aayush
+Main Responsibility: Architecture Choice – Public Blockchain
+Work: Research Ethereum/Polygon, advantages/disadvantages, privacy, cost, trust/verifiability
+
+
+Student: Ashfarh
+Main Responsibility: Architecture Choice – Permissioned Blockchain + Recommendation
+Work: Research Hyperledger Fabric, consortium model, compare with public blockchain, make final recommendation
+
+
+Student: Oman
+Main Responsibility: Workflow & Issuance
+Work: Design how UoM creates, signs, hashes and records the digital degree
+
+
+Student: Farhaan
+Main Responsibility: Verification Process + System Diagram
+Work: Design employer/overseas university verification and create the end-to-end workflow/architecture diagrams
+
+
+Student: Yohann
+Main Responsibility: Privacy, DPA 2017 & Final Integration
+Work: Research DPA 2017, explain immutability vs erasure, design off-chain/on-chain solution, integrate/edit final report
+
+-------------------------------------------------------------------------------------------------------------------------------
+Group workflow
+
+Don't have everyone simply write their section independently and combine everything at the end.
+
+I'd do it in this order:
+
+Step 1 — Agree on architecture
+
+Aayush + Ashfarh
+
+Compare:
+
+Public Ethereum/Polygon vs Hyperledger Fabric
+
+Then the entire group agrees on:
+
+Permissioned consortium blockchain
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Step 2 — Agree on system architecture
+
+Oman + Farhaan
+
+Design:
+
+Issuance → Hash → Blockchain → Verification
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Step 3 — Privacy architecture
+
+Yohann
+
+Add:
+
+Personal data OFF-CHAIN + hash ON-CHAIN
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Step 4 — Everyone submits research
+
+Each person gives their section + sources to the group.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Your group's "master idea"
+
+Make sure all five students understand this before anyone starts writing:
+
+UoM issues a digitally signed degree → the credential is hashed → only the cryptographic proof is recorded on the permissioned blockchain → the student's personal information remains off-chain → employers verify the credential by comparing the credential's hash with the blockchain record.
+
+If everyone builds their section around that same architecture, the final assignment will feel like a single professionally designed system rather than five pieces stuck together.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| Student     | Section                 | Main Deliverable                                            | Approx. Weight |
+| ----------- | ----------------------- | ----------------------------------------------------------- | -------------: |
+| **Aayush**  | Public blockchain       | Public blockchain analysis                                  |           ~15% |
+| **Ashfarh** | Permissioned blockchain | Hyperledger + comparison + recommendation                   |           ~20% |
+| **Oman**    | Issuance                | Credential creation, hashing, signing, blockchain recording |           ~20% |
+| **Farhaan** | Verification            | Employer verification + diagrams                            |           ~20% |
+| **Yohann**  | Privacy + integration   | DPA 2017 + off-chain/on-chain solution + final editing      |           ~25% |
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Everyone follows the same design
+
+The final system should consistently look like:
+
+                 UoM
+                  │
+                  ↓
+          Digital Credential
+                  │
+          ┌───────┴───────┐
+          ↓               ↓
+      OFF-CHAIN        ON-CHAIN
+      Personal Data       Hash
+          │               │
+          ↓               ↓
+       UoM DB        Hyperledger Fabric
+                          │
+                          ↓
+                    Verification
+                          │
+                 ┌────────┴────────┐
+                 ↓                 ↓
+              Employer         Overseas
+                               University
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Aayush — Public Blockchain (Deadline : 1 September)
+Main section:
+
+Part 1: Architecture Choice — Public Permissionless Blockchain
+
+What Aayush needs to research
+
+Focus on:
+
+What is a public permissionless blockchain?
+Ethereum
+Polygon
+How decentralisation works
+Public accessibility
+Transparency
+Global verification
+Gas/transaction fees
+Privacy problems
+Scalability
+Advantages for UoM
+Disadvantages for UoM
+His key question
+
+"What would happen if UoM used Ethereum or Polygon?"
+
+
+Deliverable
+He should produce approximately 300–400 words.
+A short analysis that Ashfarh can use when comparing public vs permissioned blockchain.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. Ashfarh — Permissioned Blockchain + Final Architecture Recommendation (Deadline 4 September)
+Main section:
+
+Part 1: Architecture Choice — Private Permissioned Blockchain
+
+Focus on:
+
+What is a permissioned blockchain?
+Hyperledger Fabric
+Consortium blockchain
+UoM + UTM + Open University
+Authorised nodes
+Privacy
+Governance
+Infrastructure costs
+Maintenance
+Scalability
+Trust
+Global verification
+
+Then compare his architecture against Aayush's public blockchain research.
+
+Most important part
+
+Ashfarh should make the final recommendation:
+
+Should UoM use public Ethereum/Polygon or a permissioned Hyperledger Fabric consortium?
+
+The group should have one clear answer.
+
+Suggested recommendation
+
+I'd recommend:
+
+Permissioned consortium blockchain using Hyperledger Fabric.
+
+But the group should still acknowledge that public blockchains have an advantage in global transparency and independent verification.
+
+Deliverable
+
+Approximately 350–450 words + comparison table.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+3. Oman — Degree Issuance & On-Chain Recording (Deadline 4 September)
+Main section:
+
+Part 2: Workflow — Issuance
+
+Oman should focus on the first half of the technical workflow.
+
+He needs to answer:
+
+Step 1
+
+How does the UoM Examinations Office create the digital degree?
+
+For example:
+Student completes degree
+        ↓
+Results approved
+        ↓
+Examinations Office
+        ↓
+Digital credential created
+
+Step 2
+
+What information is included?
+
+For example:
+
+Degree
+Programme
+Award date
+Credential ID
+Issuing institution
+
+Step 3
+
+How does UoM authenticate it?
+
+Explain:
+
+Digital signature + UoM private key
+
+Step 4
+
+How is the hash generated?
+
+For example:
+Digital Credential
+       ↓
+SHA-256
+       ↓
+Cryptographic Hash
+
+Step 5
+
+What gets recorded on-chain?
+
+For example:
+
+Credential ID
+Hash
+Issuer
+Timestamp
+Credential status
+
+Very important
+
+Oman must clearly distinguish:
+
+OFF-CHAIN
+
+Personal/credential information
+
+from
+
+ON-CHAIN
+
+Cryptographic proof/hash
+
+Deliverable
+
+Approximately 300–400 words + issuance diagram.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. Farhaan — Verification + Diagrams (Deadline 4 September)
+Main section:
+
+Part 2: Verification
+
+Farhaan handles the second half of the workflow.
+
+He should answer:
+
+"How does an employer in Ébène verify the degree in seconds?"
+
+For example:
+
+Employer receives digital degree
+             ↓
+          Scan QR
+             ↓
+      Retrieve credential
+             ↓
+     Calculate credential hash
+             ↓
+      Check digital signature
+             ↓
+ Compare against blockchain hash
+             ↓
+       ┌─────┴─────┐
+       ↓           ↓
+     VALID       INVALID
+
+
+He should explain:
+
+Local employer
+
+An HR manager in Ébène scans the QR code.
+
+International university
+
+An overseas university performs the same verification without needing to email/call the UoM Registry.
+
+Key concept
+
+The verifier should be able to independently determine:
+
+Was this credential really issued by UoM and has it been altered?
+-------------------------------------------------
+Farhaan should also create the main diagram
+
+This is important because the assignment explicitly asks for:
+
+"Diagrams, architectural workflows"
+
+I would make Farhaan responsible for the professional-looking final architecture diagram.
+
+Something like:
+
+                 UoM EXAMINATIONS OFFICE
+                          │
+                          ↓
+                 Digital Credential
+                          │
+                 ┌────────┴────────┐
+                 ↓                 ↓
+            OFF-CHAIN           ON-CHAIN
+          Student Data       Cryptographic Hash
+                 │                 │
+                 ↓                 ↓
+             UoM DB         Hyperledger Fabric
+                                   │
+                         ┌─────────┼─────────┐
+                         ↓         ↓         ↓
+                        UoM       UTM     Open University
+                                   │
+                                   ↓
+                            Consortium Ledger
+                                   │
+                         ┌─────────┴─────────┐
+                         ↓                   ↓
+                      Employer        Overseas University
+                         │                   │
+                         └─────────┬─────────┘
+                                   ↓
+                              Verification
+
+
+Deliverable
+
+Approximately 300–400 words + main system diagram + verification flowchart.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5. Yohann — Privacy, DPA 2017 + Final Editor
+Main section:
+
+Part 3: Privacy & Mauritian Regulatory Compliance
+
+This is a 7-mark section, so it deserves serious attention.
+
+You need to research:
+
+Mauritius Data Protection Act 2017
+Data Protection Office
+data protection principles relevant to the scenario
+right to erasure/deletion where applicable
+GDPR alignment
+blockchain immutability
+conflict between immutability and deletion
+
+
+The key problem
+
+Explain:
+
+Blockchain is designed to be immutable.
+
+But:
+
+Data protection law can give individuals rights concerning their personal data.
+
+Therefore:
+
+Blockchain
+"Don't change/delete records"
+        VS
+Data protection
+"Personal data may need to be deleted"
+-----------------------------------------------------------------------------
+
+Then propose the solution
+
+The group's architecture should use:
+
+OFF-CHAIN
+
+Student personal information
+        ↓
+Secure UoM database
+
+
+ON-CHAIN
+
+Cryptographic hash
+Credential ID
+Timestamp
+Issuer information
+
+Then explain why this is better for compliance.
+
+ohann's second responsibility: Final Integration
+
+I'd give you the final editing/integration role because someone needs to make sure the five sections don't contradict each other.
+------------------------------------------------------
+You should ensure:
+
+Everyone uses the same architecture
+
+If Ashfarh says:
+
+Hyperledger Fabric
+
+but Oman writes:
+
+Ethereum smart contract
+
+you need to fix that.
+
+Everyone uses the same terminology
+
+For example, consistently use:
+
+UoM
+Hyperledger Fabric
+permissioned consortium blockchain
+off-chain storage
+on-chain hash
+digital signature
+cryptographic hash
+verification
+DPA 2017
