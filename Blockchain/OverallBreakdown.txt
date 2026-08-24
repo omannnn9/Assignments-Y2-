@@ -1,0 +1,60 @@
+ICT2204(3) Blockchain Technologies & Cloud Computing
+Assignment Breakdown — What You Actually Need to Do
+Total: 25 marks
+
+| Part  | Topic                        |  Marks | What you need to produce                                                |
+| ----- | ---------------------------- | -----: | ----------------------------------------------------------------------- |
+| **1** | Architecture Choice          |  **8** | Compare public vs private blockchain and recommend one                  |
+| **2** | Workflow & Verification      | **10** | Design the complete degree issuance + verification process              |
+| **3** | Privacy & Mauritius DPA 2017 |  **7** | Explain the blockchain/privacy conflict and design a compliant solution |
+|       | **TOTAL**                    | **25** |                                                                         |
+
+------------------------------------------------------------------------------------------------------------------------------
+The assignment has two major things you are being tested on:
+
+Do you understand blockchain technology?
+Can you apply blockchain to a realistic Mauritian university problem while considering privacy, cost and regulation?
+------------------------------------------------------------------------------------------------------------------------------
+
+First: Understand the scenario
+
+The University of Mauritius wants to replace/reduce reliance on traditional paper/PDF degrees.
+Currently, imagine a graduate applies for a job at a company in Ebène Cybercity.
+
+The company has to ask:
+"Is this person's degree actually genuine?"
+
+Traditionally, the employer might contact UoM or rely on a certificate that could potentially be forged.
+
+Blockchain solution
+
+UoM could issue a digital degree credential.
+
+For example:
+
+Yohann Babbea
+Bachelor of Science (Hons) FinTech
+University of Mauritius
+Awarded: 2026
+
+Instead of putting all this personal information directly onto a blockchain, UoM can create a cryptographic hash of the credential and store that proof on blockchain.
+
+Then:
+
+Graduate → gives digital degree → Employer → verifies blockchain proof → Genuine / Not genuine
+
+The important idea is:
+
+Blockchain proves that the credential has not been altered since it was issued.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
