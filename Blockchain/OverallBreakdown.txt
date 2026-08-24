@@ -4,6 +4,10 @@ Total: 25 marks
 
 ChatGPT Link to full breakdown : https://chatgpt.com/share/6a8c692d-be1c-83ea-baf0-7d995a559255
 
+Your assignment in one sentence :
+
+Design a privacy-preserving blockchain system where UoM issues digitally signed degrees, stores the student's personal credential off-chain, records a cryptographic proof on a permissioned blockchain, and allows employers anywhere to independently verify the degree without contacting UoM.
+
 | Part  | Topic                        |  Marks | What you need to produce                                                |
 | ----- | ---------------------------- | -----: | ----------------------------------------------------------------------- |
 | **1** | Architecture Choice          |  **8** | Compare public vs private blockchain and recommend one                  |
