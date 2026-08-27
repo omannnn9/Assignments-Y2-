@@ -2,7 +2,7 @@ Oman - Workflow: Degree issuance and on-chain recording
 
 The process of degree issuance starts when a student successfully completes all requirements for their degree and the University's examination board approves the issuance for their degree. Once this is successful, the UoM examinations office generates a digital credential for the student. The credential contains important academic data such as name, student id, programme of study, date awarded, credential id and institution. 
 
-![Degree issuance workflow](diagrams/degree-workflow.png)
+![Degree issuance workflow](Blockchain/diagrams/degree-workflow.png)
 
 To ensure authenticity and prevent risk of falsified documents, the credential is digitally signed using the private key of the university. The private key acts as the digital signature of the university and also as proof that it was issued by UoM. Any other institution or employer can later verify the authenticity using the university's public key.
 
