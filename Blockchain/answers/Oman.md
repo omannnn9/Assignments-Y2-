@@ -13,7 +13,7 @@ In order to ensure student privacy and to comply with data protection regulation
 Therefore, the University Of Mauritius will only store a small amount of verification information on the permissioned Hyperledger Fabric consortium blockchain. Only the credential ID, the SHA-256 hash, the issuing institution (University of Mauritius) and a timestamp is stored. When the transaction is sent to the network, nodes will verify the validity and reach consensus and then record it on the blockchain. After this, the transaction will be permanently recorded on the blockchain network and it cannot be changed. By storing sensitive data off chain and storing only verification data on chain, the University of Mauritius will be able to ensure transparency, privacy and data security. This will also help other institutions or companies verify credentials efficiently and transparently (Androulaki et al., 2018; Hyperledger Foundation, 2024).
 
 
-Reference:
+References:
 
 Androulaki, E., Barger, A., Bortnikov, V., Cachin, C., Christidis, K., De Caro, A., Enyeart, D., Ferris, C., Laventman, G., Manevich, Y., Muralidharan, S., Murthy, C., Nguyen, B., Sethi, M., Singh, G., Smith, K., Sorniotti, A., Stathakopoulou, C., Vukolić, M., Cocco, S.W. and Yellick, J. (2018) ‘Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains’, Proceedings of the Thirteenth EuroSys Conference, pp. 1–15.
 
