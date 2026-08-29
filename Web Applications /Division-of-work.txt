@@ -1,0 +1,152 @@
+XYZ MASTER WEBSITE - GROUP WORK ALLOCATION
+
+Project Theme:
+Design and develop a 3-page business website for XYZ Master using HTML, CSS and JavaScript only.
+
+Required Features:
+
+* Home Page
+* Services Page
+* Contact Page
+* One form
+* Input fields
+* Password field
+* Email field
+* Phone number field
+* Button
+* List
+* Checkbox
+* Radio button
+* Dropdown menu
+* Hyperlinks
+* JavaScript validation
+
+⸻
+
+OMAN
+
+Report:
+
+* Problem Statement
+* Research and Analysis
+
+Development:
+
+* Create index.html (Home Page)
+* Navigation bar
+* Company introduction
+* Hyperlinks between pages
+* Footer
+
+⸻
+
+YOHANN
+
+Report:
+
+* Background Study / Literature Review
+
+Development:
+
+* Create services.html
+* Services section
+* Service descriptions
+* Lists
+* Service cards/content
+
+⸻
+
+ASHFAR
+
+Report:
+
+* Wireframes
+    * Low Fidelity
+    * High Fidelity
+
+Development:
+
+* Create style.css
+* Website layout
+* Colours
+* Fonts
+* Responsive design
+* Buttons and styling
+
+⸻
+
+AYUSH
+
+Report:
+
+* Design
+* Operation
+
+Development:
+
+* Create contact.html
+* Contact form
+* Name field
+* Email field
+* Password field
+* Phone number field
+* Dropdown
+* Radio buttons
+* Checkboxes
+* Submit button
+
+⸻
+
+FARHAAN
+
+Report:
+
+* Testing
+
+Development:
+
+* Create script.js
+* Form validation
+* Email validation
+* Phone number validation
+* Password validation
+* Success/error messages
+
+Testing:
+
+* Prepare 5 test cases
+* Record errors found
+* Explain fixes applied
+* Document final solution
+
+⸻
+
+FINAL INTEGRATION
+
+Everyone:
+
+* Review all pages
+* Ensure navigation links work
+* Ensure CSS is consistent across pages
+* Ensure JavaScript validation works
+* Test website on desktop and mobile
+* Fix any issues before submission
+
+Folder Structure:
+
+XYZ-Master/
+│
+├── index.html
+├── services.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── images/
+
+Note:
+All members must contribute code and be able to explain their contribution during presentation/demo.
