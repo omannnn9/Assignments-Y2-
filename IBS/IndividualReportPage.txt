@@ -1,0 +1,153 @@
+ndividual Reflective Report — 5 Marks Each
+
+The lecturer wants this to be individual, so everyone should write about their own actual experience, not copy the same report.
+
+The marking criteria are:
+
+What you write about	Marks
+Your individual contribution	1.5
+Knowledge/skills acquired	1.5
+Challenges + lessons learned	1
+Clarity, structure + one-page limit	1
+Total	5
+--------------------------------------------------------------------
+Ashfarh — Individual Reflection
+Contribution
+
+Write about:
+
+Analysing the actors
+Identifying interactions
+Creating the Collaboration Diagram
+Applying UML notation
+Working with ARIS
+Skills learned
+
+Mention:
+
+UML Collaboration Diagrams
+Identifying actors/interactions
+Message sequencing
+ARIS modelling
+Challenge
+
+For example:
+
+Understanding which actors needed to be included and how their interactions should be represented.
+
+Lesson
+
+Explain how you became better at translating a real-world process into a structured diagram.
+-------------------------------------------------------------------------------------------------------------------
+Oman — Individual Reflection
+Contribution
+
+Write about:
+
+Analysing the walk-in process
+Creating the 10-mark process diagram
+Identifying decisions and branches
+Modelling normal borrowing, ILL and reservation
+Skills learned
+
+Mention:
+
+Process modelling
+ARIS
+Decision modelling
+Business process analysis
+Challenge
+
+A good challenge would be handling the different book availability scenarios.
+
+Lesson
+
+Explain how analysing the case carefully helped you understand that one process can have multiple possible outcomes.
+-----------------------------------------------------------------------------------------------------------------------------
+Farhaan — Individual Reflection
+Contribution
+
+Write about:
+
+Analysing the study room process
+Modelling booking channels
+Modelling availability checking
+Modelling arrival, key collection and return
+Including follow-up reservations
+Skills learned
+
+Mention:
+
+Process modelling
+ARIS
+Identifying process stages
+Representing decisions
+Challenge
+
+For example:
+
+Ensuring that both the reservation process and the actual study-room visit were represented.
+
+Lesson
+
+Explain how you learned to break a real-world service into clear process stages.
+-------------------------------------------------------------------------------------------------------------------------------
+Yohann — Individual Reflection
+Contribution
+
+Write about:
+
+Designing the PowerPoint
+Organising the presentation
+Preparing the introduction
+Preparing weaknesses and improvements
+Coordinating the overall report design
+Integrating the group's work
+Skills learned
+
+Mention:
+
+Presentation design
+Communication
+Team coordination
+Report organisation
+Information System analysis
+Challenge
+
+For example:
+
+Combining different members' work into one consistent presentation/report.
+
+Lesson
+
+Explain how you learned to coordinate different contributions and present technical information clearly.
+-----------------------------------------------------------------------------------------------------------------------------
+Aayush — Individual Reflection
+Contribution
+
+Write about:
+
+Working with the diagram creators
+Preparing diagram explanations
+Coordinating Draft 1
+Coordinating Draft 2
+Integrating feedback
+Helping ensure the final work is complete
+Skills learned
+
+Mention:
+
+Understanding ARIS diagrams
+Report writing
+Reviewing diagrams
+Team coordination
+Incorporating feedback
+Challenge
+
+For example:
+
+Ensuring that explanations accurately matched the diagrams and that the group's work was properly integrated.
+
+Lesson
+
+Explain how reviewing other members' work improved your understanding of the entire MyLib process.
