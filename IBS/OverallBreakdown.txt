@@ -1,41 +1,292 @@
-1. Assignment Overview
+MyLib Assignment — Simple Guide
+1. What do we have to do?
 
-The assignment is based on the MyLib Public Library Information System case study.
+This assignment is about analysing how the MyLib public library currently works and creating diagrams to represent its processes.
 
-MyLib serves two main types of visitors:
+The assignment is 40 marks in total and contributes 16% of the course mark.
 
-Members using walk-in library services
-Members using pre-booked study room reservations
+Main tasks
+Task                             Marks
+Collaboration Diagram	          5 Marks
+Walk-in Process Diagram	       10 Marks
+Study Room Process Diagram	    7 Marks
+3 Weaknesses + Improvements   	3 Marks
+Group Report	                 25 Marks
+Presentation	                  5 Marks
+Individual Reflection	          5 Marks
+Drafts 1 & 2,	                  5 Marks
+TOTAL	                         40 Marks
 
-The assignment requires the group to analyse the existing library processes and model them using ARIS. The case study specifically asks for:
 
-A Collaboration Diagram
-A Process Diagram for Walk-in Member Services
-A Process Diagram for Pre-Booked Study Room Reservations
-Three weaknesses in the current processes and corresponding improvements
-
-All diagrams must be created using ARIS.
-
-Important: Assignment Marking
-
-The assignment is officially marked out of 40 marks, not 100.
-
-Deliverable	Marks
-Draft Submission 1	2.5
-Draft Submission 2	2.5
-PowerPoint Presentation	5
-Individual Reflective Report	5
-Group Report	25
-Total	40
-
-The assignment contributes 16% of the overall course mark.
-
-For an A*/100% strategy, treat the 40 marks as 100% of the assignment and aim for 40/40.
+All diagrams must be created using ARIS
 
 
 
 
+2. What are the 3 diagrams?
+A. Collaboration Diagram — 5 marks
+
+This shows:
+
+WHO interacts with WHO?
+
+Main people/systems:
+
+Member
+Receptionist / Front Desk
+Library Assistant
+Librarian
+Catalogue System
+Other Library Branch
+Reservation Book/System
+
+Show the messages/interactions between them and their sequence.
 
 
+
+
+
+3. Walk-in Process Diagram — 10 marks
+
+This is the most important diagram.
+
+Show the complete journey of a member who walks into the library.
+
+Basic flow:
+
+Member arrives
+
+↓
+
+Register using NIC
+
+↓
+
+Enter name, address, DOB, contact
+
+↓
+
+Receive membership card
+
+↓
+
+Library Assistant asks purpose
+
+↓
+
+Member goes to Librarian
+
+↓
+
+Librarian processes request
+
+Then you have different possibilities:
+
+Book available on shelf
+
+Scan book + membership card → Record loan
+
+Book not available
+
+Check catalogue
+
+→ Available at another branch?
+
+YES → Inter-Library Loan → Confirmation → Notify member
+
+NO → Reserve book → Notify member when available
+
+The assignment specifically requires registration, Library Assistant assessment, Librarian processing, ILL and reservation to be considered.
+
+
+
+
+4. Study Room Process Diagram — 7 marks
+
+Show how a member books and uses a study room.
+
+Booking:
+
+Member wants room
+
+↓
+
+Can book by:
+
+Front desk
+Phone
+Email
+
+↓
+
+Receptionist asks for:
+
+NIC
+Date
+Time
+Room type
+
+↓
+
+Check reservation book
+
+↓
+
+Is room available?
+
+YES → Confirm and record reservation
+
+NO → Offer another date/time
+
+On the actual day:
+
+Member arrives
+
+↓
+
+Receptionist checks reservation
+
+↓
+
+Give room key
+
+↓
+
+Member uses room
+
+↓
+
+Returns key
+
+↓
+
+Needs another booking?
+
+YES → Make new reservation
+
+NO → END
+
+These steps come directly from the case study.
+
+
+
+
+
+5. Three Weaknesses + Improvements — 3 marks
+
+Give 3 problems with the current manual system and explain how MyLib could improve them.
+
+Example:
+Weakness	                                       Improvement
+Manual reservation book	                  Digital booking system
+Notes written on membership cards	        Digital member records
+Staff manually notify members	            Automatic SMS/email notifications
+
+Keep these specific to MyLib.
+
+
+6. Group Report — 25 marks
+
+Your report should basically contain:
+
+
+1. Introduction
+
+2. Collaboration Diagram
+
+3. Walk-in Process Diagram
+
+4. Study Room Process Diagram
+
+5. 3 Weaknesses + Improvements
+
+6. Conclusion
+
+The three diagrams are the most important part because they account for 22 of the 25 Group Report marks.
+
+
+
+7. Presentation — 5 marks
+
+You have a maximum of 15 minutes.
+
+Keep it simple:
+
+Introduce MyLib
+Explain Collaboration Diagram
+Explain Walk-in Process
+Explain Study Room Process
+Explain weaknesses + improvements
+Conclusion
+
+Don't read everything from the slides. Explain your diagrams.
+
+
+
+
+
+8. Individual Reflection — 5 marks
+
+Each student submits one page individually.
+
+Simply discuss:
+
+What I contributed
+What I learned
+What difficulties I faced
+What I would improve / lessons learned
+
+
+
+
+
+
+9. How to Aim for 40/40
+
+Focus most on the diagrams.
+
+Before submitting, check:
+
+Collaboration Diagram
+
+ Correct actors
+ Correct interactions
+ Correct UML notation
+ Correct sequence
+
+Walk-in Diagram
+
+ Registration
+ Library Assistant
+ Librarian
+ Book available
+ ILL
+ Reservation
+ Collection
+
+Study Room Diagram
+
+ Front desk/phone/email
+ NIC/date/time/room type
+ Availability check
+ Reservation
+ Key collection
+ Key return
+ Follow-up booking
+
+Weaknesses
+
+ 3 problems
+ 3 realistic solutions
+
+Report
+
+ Clear
+ Well organised
+ ARIS diagrams
+ No missing requirements
+The whole assignment in one line:
+
+Understand MyLib → draw 3 correct ARIS diagrams → identify 3 problems and solutions → put everything in the report → present it → write your individual reflection.
 
 
