@@ -1,0 +1,41 @@
+1. Assignment Overview
+
+The assignment is based on the MyLib Public Library Information System case study.
+
+MyLib serves two main types of visitors:
+
+Members using walk-in library services
+Members using pre-booked study room reservations
+
+The assignment requires the group to analyse the existing library processes and model them using ARIS. The case study specifically asks for:
+
+A Collaboration Diagram
+A Process Diagram for Walk-in Member Services
+A Process Diagram for Pre-Booked Study Room Reservations
+Three weaknesses in the current processes and corresponding improvements
+
+All diagrams must be created using ARIS.
+
+Important: Assignment Marking
+
+The assignment is officially marked out of 40 marks, not 100.
+
+Deliverable	Marks
+Draft Submission 1	2.5
+Draft Submission 2	2.5
+PowerPoint Presentation	5
+Individual Reflective Report	5
+Group Report	25
+Total	40
+
+The assignment contributes 16% of the overall course mark.
+
+For an A*/100% strategy, treat the 40 marks as 100% of the assignment and aim for 40/40.
+
+
+
+
+
+
+
+
