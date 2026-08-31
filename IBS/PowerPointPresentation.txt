@@ -1,0 +1,158 @@
+MyLib — Presentation & Individual Reflection Breakdown
+
+The idea should be simple: each person presents the part they worked on and writes about their own contribution in the individual reflective report.
+
+The presentation is 5 marks, while each student's reflective report is 5 marks individually.
+
+1. Presentation — 15 Minutes
+
+I recommend giving each member approximately 3 minutes.
+
+Member	Presentation Topic	Time
+Ashfarh	Collaboration Diagram	~3 min
+Oman	Walk-in Process Diagram	~3 min
+Farhaan	Study Room Process Diagram	~3 min
+Yohann	Introduction + Weaknesses & Improvements	~3 min
+Aayush	Overall Report/Conclusion + Summary	~3 min
+	TOTAL	~15 min
+
+This keeps everyone involved rather than having one person do most of the presentation.
+------------------------------------------------------------------------------------------------
+Ashfarh — Collaboration Diagram
+Present:
+
+1. What the Collaboration Diagram represents
+
+Explain that it shows the actors/objects and their interactions.
+
+2. Main actors
+
+Briefly introduce:
+
+Member
+Receptionist/Front Desk
+Library Assistant
+Librarian
+Catalogue System
+Other Library Branch
+Reservation Book/System
+
+3. Explain the important interactions
+
+For example:
+
+Member → Front Desk → Library Assistant → Librarian → Catalogue/Other Branch
+
+Explain the important messages and sequence.
+
+Main goal:
+
+Show the lecturer that you understand why the actors interact, not just that you created the diagram.
+------------------------------------------------------------------------------------------------------------------------
+Oman — Walk-in Process
+Present:
+
+Walk through the diagram from beginning to end.
+
+Explain:
+
+Member arrives
+Registration using NIC
+Member details collected
+Membership card issued
+Library Assistant assesses purpose
+Member goes to Librarian
+Librarian processes request
+Book availability decision
+Normal loan if available
+Catalogue check if unavailable
+ILL if another branch has it
+Reservation if unavailable everywhere
+Collection appointment where applicable
+Main goal:
+
+Explain the decision points and different paths in the process.
+
+This is the 10-mark diagram, so Oman should be prepared to explain it confidently.
+----------------------------------------------------------------------------------------------------------------
+Farhaan — Study Room Process
+Present:
+
+Explain the complete study room process.
+
+Booking:
+Front desk
+Telephone
+Email
+NIC
+Date/time
+Room type
+Availability checking
+Alternative booking if necessary
+Confirmation and recording
+Actual visit:
+Member arrives
+Reservation checked
+Key issued
+Study session
+Key returned
+Follow-up reservation if required
+Main goal:
+
+Show that the diagram covers both booking the room and actually using the room.
+-------------------------------------------------------------------------------------------------------------
+Yohann — Introduction + Weaknesses & Improvements
+Introduction
+
+Briefly introduce:
+
+MyLib
+Purpose of the assignment
+The two processes being analysed
+Use of ARIS
+
+Keep this short — around 1 minute.
+
+Weaknesses & Improvements
+
+Explain the three problems:
+
+1. Manual reservation book
+
+→ Digital reservation system
+
+2. Physical notes on membership cards
+
+→ Digital member records
+
+3. Manual notifications
+
+→ Automated SMS/email notifications
+
+Explain briefly why each improvement solves the problem.
+
+Main goal:
+
+Connect the current problems to the proposed MyLib Information System.
+----------------------------------------------------------------------------------------------------------------------------------------
+Aayush — Report Summary + Conclusion
+
+Aayush can finish the presentation.
+
+Present:
+
+Briefly summarise:
+
+What the group discovered
+What the three diagrams represent
+How the proposed improvements could improve MyLib
+
+Then give the conclusion.
+
+For example:
+
+"Overall, the analysis shows that MyLib relies heavily on manual processes. The proposed Information System could improve efficiency, reduce errors and improve communication with members."
+
+Also:
+
+Aayush should be ready to explain how the Group Report was structured and how the different members' sections were integrated.
