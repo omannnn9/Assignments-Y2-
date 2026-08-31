@@ -1,12 +1,3 @@
-Yes — **the overall structure is correct**, and you've fixed the earlier marks confusion. There are just a few things I would change before putting this in your GitHub group folder.
-
-Most importantly, I would **not say that Aayush writes "a minimum of 200 words on each diagram" as if this is an assignment requirement**. The brief does **not** state a 200-word requirement. The rubric focuses on the diagrams themselves; the explanation is useful, but 200 words each is your group's own decision. 
-
-Also, I would make the responsibilities slightly clearer so nobody thinks Aayush is responsible for the entire 25-mark Group Report.
-
-Here is the version I recommend you use:
-
----
 
 # MyLib Assignment — Group Work Distribution
 
