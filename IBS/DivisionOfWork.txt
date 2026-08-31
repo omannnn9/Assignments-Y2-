@@ -1,1 +1,305 @@
+Yes — **the overall structure is correct**, and you've fixed the earlier marks confusion. There are just a few things I would change before putting this in your GitHub group folder.
 
+Most importantly, I would **not say that Aayush writes "a minimum of 200 words on each diagram" as if this is an assignment requirement**. The brief does **not** state a 200-word requirement. The rubric focuses on the diagrams themselves; the explanation is useful, but 200 words each is your group's own decision. 
+
+Also, I would make the responsibilities slightly clearer so nobody thinks Aayush is responsible for the entire 25-mark Group Report.
+
+Here is the version I recommend you use:
+
+---
+
+# MyLib Assignment — Group Work Distribution
+
+## Marks Breakdown
+
+| Component                   |  Marks | Where - Who     |
+| --------------------------- | -----: | --------------- |
+| Collaboration Diagram       |      5 | Group Report-Ashfarh   |
+| Walk-in Process Diagram     |     10 | Group Report-Oman   |
+| Study Room Process Diagram  |      7 | Group Report-Farhann   |
+| 3 Weaknesses + Improvements |      3 | Group Report-Yohann    |
+| **Group Report**            | **25** | **All members- Yohann will combine** |
+| Presentation                |  **5** | **All members- Yohann to make powerpoint** |
+| Individual Reflection       |  **5** | **Individual**  |
+| Draft 1 & Draft 2           |  **5** | **Group work - Aayush to prepare**  |
+| **TOTAL**                   | **40** |                 |
+
+The Group Report consists of the Collaboration Diagram, Walk-in Process Diagram, Study Room Process Diagram, and Weaknesses + Improvements. These are **not additional marks on top of the 25**. 
+
+( **AI can be used only to help set up and implement the diagrams.**)
+
+# 1. Ashfarh — Collaboration Diagram
+
+### Main Responsibility
+
+**Collaboration Diagram — 5 marks**
+
+Ashfarh will work on the Collaboration Diagram and identify the relevant actors/objects, including:
+
+* Member
+* Receptionist / Front Desk
+* Library Assistant
+* Librarian
+* Catalogue System
+* Other Library Branch
+* Reservation Book/System
+
+The diagram should show:
+
+* Who communicates with whom
+* What messages are exchanged
+* Correct message sequence
+* Appropriate UML notation
+* Correct interactions
+
+The rubric specifically assesses **correct notation, interactions and message sequencing**. 
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+# 2. Oman — Walk-in Process Diagram
+
+### Main Responsibility
+
+**Walk-in Member Services Process Diagram — 10 marks**
+
+Oman will handle the complete process logic, including:
+
+* Member arrival
+* Registration
+* NIC
+* Member details
+* Membership card
+* Library Assistant assessment
+* Librarian processing
+* Book availability
+* Catalogue checking
+* Inter-Library Loan
+* Other library branch
+* Reservation
+* Collection appointment
+
+The diagram must represent the different possible outcomes of the member's request, rather than only the normal book-borrowing process.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 3. Farhaan — Study Room Process Diagram
+
+### Main Responsibility
+
+**Pre-Booked Study Room Reservation Process Diagram — 7 marks**
+
+Farhaan will cover:
+
+* Front desk booking
+* Telephone booking
+* Email booking
+* NIC
+* Preferred date
+* Preferred time
+* Room type
+* Availability checking
+* Alternative date/time
+* Reservation confirmation
+* Recording reservation
+* Member arrival
+* Reservation verification
+* Key collection
+* Study session
+* Key return
+* Follow-up reservation
+
+The process should cover both **making the reservation** and **attending the reservation**.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 4. Yohann — PowerPoint + Group Report Design
+
+### Main Responsibility
+
+**PowerPoint Presentation — 5 marks**
+
+Yohann will organise the presentation around:
+
+1. Introduction
+2. MyLib Case Overview
+3. Collaboration Diagram
+4. Walk-in Process
+5. Study Room Process
+6. Weaknesses & Improvements
+7. Conclusion
+
+The presentation has a maximum duration of **15 minutes**. 
+
+### Group Report Responsibilities
+
+Yohann will coordinate the overall design and formatting of the Group Report, including:
+
+* Cover page
+* Introduction
+* Case study overview
+* Overall report structure
+* Combining everyone's diagrams
+* Combining diagram explanations
+* Conclusion
+* References, if required
+* Final formatting
+* Final quality check
+
+**Important:** Yohann is coordinating and assembling the report, but the **25-mark Group Report is the responsibility of the whole group**.
+
+---
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 5. Aayush — Diagram Explanations + Drafts
+
+### Main Responsibility
+
+Aayush will work alongside **Ashfarh, Oman and Farhaan** to understand and review their diagrams.
+
+For each diagram, Aayush will prepare a **clear written explanation** so that the report is self-explanatory.
+
+Suggested structure:
+
+### Collaboration Diagram
+
+Briefly explain:
+
+* The actors
+* Their interactions
+* The sequence of messages
+
+### Walk-in Process Diagram
+
+Briefly explain:
+
+* Registration
+* Library Assistant assessment
+* Librarian processing
+* Book availability
+* ILL
+* Reservation
+
+### Study Room Process Diagram
+
+Briefly explain:
+
+* Booking
+* Availability checking
+* Reservation
+* Arrival
+* Key collection/return
+* Follow-up booking
+
+### Draft Responsibilities
+
+Aayush will coordinate the preparation and integration of:
+
+* **Draft 1 — Week 6**
+* **Draft 2 — Week 8**
+
+---
+
+# Draft 1 — Week 6
+
+**2.5 marks**
+
+Draft 1 is assessed on:
+
+| Requirement                                                          |   Marks |
+| -------------------------------------------------------------------- | ------: |
+| Understanding of case study + identification of key actors/processes |       1 |
+| Initial Collaboration Diagram using appropriate UML notation         |       1 |
+| Submission quality, completeness and guidelines                      |     0.5 |
+| **Total**                                                            | **2.5** |
+
+
+
+### Draft 1 should include:
+
+* Case study analysis
+* Key actors
+* Key processes
+* Initial Collaboration Diagram
+* Appropriate UML notation
+* Clean and organised submission
+
+---
+
+# Draft 2 — Week 8
+
+**2.5 marks**
+
+Draft 2 is assessed on:
+
+| Requirement                                               |   Marks |
+| --------------------------------------------------------- | ------: |
+| Evidence of incorporating Draft 1 feedback                |       1 |
+| Improvement in diagram quality, notation and completeness |       1 |
+| Readiness for final submission                            |     0.5 |
+| **Total**                                                 | **2.5** |
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IMPORTANT:
+
+Everyone should improve their own assigned section based on the feedback received. 
+
+* Ashfarh → Improve Collaboration Diagram
+* Oman → Improve Walk-in Diagram
+* Farhaan → Improve Study Room Diagram
+* Yohann → Update presentation/report design
+* Aayush → Integrate improvements and prepare Draft 2
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Presentation — 15 Minutes
+
+I recommend giving each member approximately 3 minutes.
+
+Member	Presentation Topic	Time
+Ashfarh	Collaboration Diagram	~3 min
+Oman	Walk-in Process Diagram	~3 min
+Farhaan	Study Room Process Diagram	~3 min
+Yohann	Introduction + Weaknesses & Improvements	~3 min
+Aayush	Overall Report/Conclusion + Summary	~3 min
+	TOTAL	~15 min
+
+This keeps everyone involved rather than having one person do most of the presentation.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Final Responsibility Summary
+
+| Student     | Main Responsibility                       | Secondary Responsibility      |
+| ----------- | ----------------------------------------- | ----------------------------- |
+| **Ashfarh** | Collaboration Diagram — 5                 | Review/report support         |
+| **Oman**    | Walk-in Diagram — 10                      | Review walk-in explanation    |
+| **Farhaan** | Study Room Diagram — 7                    | Weaknesses & Improvements — 3 |
+| **Yohann**  | Presentation — 5                          | Report design & formatting    |
+| **Aayush**  | Diagram explanations + Draft coordination | Final integration             |
+
+### Everyone
+
+All members are responsible for:
+
+* Understanding the complete case study
+* Reviewing the final diagrams
+* Contributing to the Group Report
+* Preparing for the presentation
+* Reviewing the final submission
+* Completing their own Individual Reflective Report
+
+The **Individual Reflective Report is submitted separately by each student** and is worth 5 marks. 
+
+---
+
+## Important Deadlines
+
+| Week          | Deliverable                            |
+| ------------- | -------------------------------------- |
+| **Week 6**    | Draft 1 — 2.5 marks                    |
+| **Week 8**    | Draft 2 — 2.5 marks                    |
+| **Week 9–10** | PowerPoint Presentation — 5 marks      |
+| **Week 11**   | Group Report — 25 marks                |
+| **Week 11**   | Individual Reflective Report — 5 marks |
+
+The presentation schedule will be communicated during the Week 8 lecture. 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
