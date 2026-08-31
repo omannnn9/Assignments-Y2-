@@ -7,11 +7,12 @@ The assignment is 40 marks in total and contributes 16% of the course mark.
 
 Main tasks
 Task                             Marks
-Collaboration Diagram	          5 Marks
-Walk-in Process Diagram	       10 Marks
-Study Room Process Diagram	    7 Marks
-3 Weaknesses + Improvements   	3 Marks
-Group Report	                 25 Marks
+Collaboration Diagram	          5 Marks  - in Group Report  
+Walk-in Process Diagram	       10 Marks  - in Group Report
+Study Room Process Diagram	    7 Marks   - in Group Report
+3 Weaknesses + Improvements   	3 Marks   - in Group Report
+--------------------------------------------
+Group Report	                  25 Marks
 Presentation	                  5 Marks
 Individual Reflection	          5 Marks
 Drafts 1 & 2,	                  5 Marks
