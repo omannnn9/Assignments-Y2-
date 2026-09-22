@@ -2,10 +2,31 @@
 
 In today's digital world, every company needs a website to be able to have an online presence in order to be able to reach more customers and a wider audience. Customers generally look for a company online before buying products or services from the company.
 
-That is why XYZ Master needs a website. This will help XYZ Master have a digital presence and reach out to customers digitally. This will also help customers view the products, services and be able to contact the business on a daily basis.
+That is why XYZ Master needs a website. This will help XYZ Master have a digital presence and reach out to customers digitally. This will also help customers view the products, services and be able to contact the business on a daily basis. The website needs to be interactive and user-friendly so that users can navigate and interact with the website with ease. The website should also be dynamic and work on all types of devices and web browsers.
 
-The goal of this website is to promote the digital presence of XYZ Master and help customers have more details before transacting with the business.
+The goal of this website is to promote the digital presence of XYZ Master and help customers have more details before transacting with the business. The website should be built using HTML, CSS and JavaScript. This would create an easy way for the business to communicate with its customers digitally.
 
 
 2.Research and analysis 
+
+Before creating XYZ Master's website, we have conducted a small research on modern business websites. Modern business websites are interactive, with a clear navigation menu, interactive and also includes description about the companies and their services and products. They also contain a contact us section for customers to be able to do business with them. A smooth ux and consistency is important for visitors to be able to look for what they nned.
+
+We have also researched about the technologies to be used to design the website and we have decided to use the following:
+
+1.HTML 
+To create the structure of the website, create the navigation, text and visual elements of the website
+
+2.CSS 
+In order to customize and give a nice visual appearance to the website, CSS was used to add colors, modify the size and fonts of the website
+
+3.JavaScript 
+JavaScript was used to make the website interactive with buttons and to validate forms and information.
+
+The main components required were a simple and easy to use navigation, easy to access information and ease of customers to contact the business. The interface has been made in a way so that it has a very user friendly interface and so that it is dynamic and can adapt to different devices and web browsers.
+
+The website consists of 3 webpages that the user can navigate to through the home screen, a home, a services and a contact us page. JavaScript validation has been used for phone numbers and emails.
+
+The website is consistent and is easy to use. A single Styles.css sheet was used for the whole website and it is easy for users to navigate and interact with the website.
+
+
 
