@@ -9,7 +9,7 @@ The goal of this website is to promote the digital presence of XYZ Master and he
 
 2.Research and analysis 
 
-Before creating XYZ Master's website, we have conducted a small research on modern business websites. Modern business websites are interactive, with a clear navigation menu, interactive and also includes description about the companies and their services and products. They also contain a contact us section for customers to be able to do business with them. A smooth ux and consistency is important for visitors to be able to look for what they nned.
+Before creating XYZ Master's website, we have conducted a small research on modern business websites. Modern business websites are interactive, with a clear navigation menu, interactive and also includes description about the companies and their services and products. They also contain a contact us section for customers to be able to do business with them. A smooth ux and consistency is important for visitors to be able to look for what they need.
 
 We have also researched about the technologies to be used to design the website and we have decided to use the following:
 
