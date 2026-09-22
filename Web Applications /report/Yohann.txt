@@ -1,1 +1,11 @@
+Background Study
 
+A professional website is an important communication tool for modern businesses because it allows customers to access information about a company at any time. For a home and property maintenance company such as XYZ Master, a website can provide customers with clear information about the services offered, company background, contact details and location. It can also help create a professional image and make it easier for potential customers to understand the services available before making an enquiry.
+
+Web technologies such as HTML5, CSS3 and JavaScript provide the main foundations for developing a modern website. HTML5 is used to structure the content of web pages, including headings, paragraphs, images, navigation links, lists and service sections. CSS3 is used to control the appearance of the website, including colours, fonts, spacing, layouts and responsive design. JavaScript can be used to provide interactive features and improve the user experience, such as form validation and dynamic responses to user actions.
+
+Responsive web design is also important because customers may access a website using different devices, including desktop computers, tablets and smartphones. A responsive website adapts its layout to different screen sizes, allowing information and navigation elements to remain accessible and easy to use.
+
+For XYZ Master, these principles are applied to create a clear and user-friendly online presence. The Services page presents the company's six main services: Home Cleaning, Plumbing Services, Electrical Services, Painting & Decoration, Garden & Landscaping, and General Property Maintenance. Organising these services into clear sections and service cards allows visitors to quickly understand what XYZ Master offers. Hyperlinks between the Home, Services and Contact pages also provide simple navigation throughout the website.
+
+Overall, the literature and background research indicate that a well-structured, responsive and informative website can improve how a business communicates its services to potential customers. These principles guided the development of the XYZ Master website and particularly the design and content of its Services page.
