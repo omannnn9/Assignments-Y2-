@@ -3,59 +3,108 @@
 
 <head>
     <meta charset="UTF-8">
+
+    <!-- Makes the website responsive on phones and tablets -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>XYZ Master | Services</title>
 
-    <link rel="stylesheet" href="css/style.css">
+    <!-- Connects this page to the group's CSS file -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Website logo -->
+    <link rel="icon" type="image/png" href="images/logo.png">
 </head>
 
 <body>
 
-    <!-- Navigation Bar -->
+    <!-- =========================
+         NAVIGATION BAR
+         ========================= -->
     <header>
-        <nav>
-            <a href="index.html">Home</a>
-            <a href="services.html">Services</a>
-            <a href="contact.html">Contact</a>
+        <nav class="navbar">
+
+            <!-- Company Logo -->
+            <div class="logo">
+                <a href="index.html">
+                    <img src="images/logo.png"
+                         alt="XYZ Master Logo"
+                         style="height: 40px; width: auto;">
+                </a>
+            </div>
+
+            <!-- Navigation Links -->
+            <ul class="nav-links">
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+
+                <li>
+                    <a href="services.html">Services</a>
+                </li>
+
+                <li>
+                    <a href="contact.html">Contact Us</a>
+                </li>
+            </ul>
+
         </nav>
     </header>
 
 
-    <!-- Main Content -->
+    <!-- =========================
+         MAIN CONTENT
+         ========================= -->
     <main>
 
-        <!-- Services Introduction -->
+        <!-- =========================
+             SERVICES INTRODUCTION
+             ========================= -->
         <section class="services-intro">
 
             <h1>Our Services</h1>
 
             <p>
-                XYZ Master provides modern digital solutions designed
-                to help businesses improve their online presence,
-                productivity and customer engagement.
+                XYZ Master is a professional home and property services
+                company based in Port Louis, Mauritius. We provide reliable
+                maintenance and improvement solutions for homes and businesses.
+            </p>
+
+            <p>
+                Our team is committed to delivering quality services while
+                focusing on customer satisfaction, professionalism and
+                dependable results.
             </p>
 
         </section>
 
 
-        <!-- Services Section -->
+        <!-- =========================
+             SERVICE CARDS
+             ========================= -->
         <section class="services">
 
             <h2>What We Offer</h2>
 
             <div class="service-container">
 
+
                 <!-- Service 1 -->
                 <article class="service-card">
 
-                    <h3>Website Development</h3>
+                    <h3>Home Cleaning</h3>
 
                     <p>
-                        We create responsive and user-friendly websites
-                        that help businesses establish a professional
-                        online presence.
+                        We provide professional cleaning services to help keep
+                        homes clean, fresh and comfortable.
                     </p>
+
+                    <ul>
+                        <li>House cleaning</li>
+                        <li>Kitchen cleaning</li>
+                        <li>Bathroom cleaning</li>
+                        <li>Deep cleaning</li>
+                    </ul>
 
                 </article>
 
@@ -63,13 +112,19 @@
                 <!-- Service 2 -->
                 <article class="service-card">
 
-                    <h3>IT Support</h3>
+                    <h3>Plumbing Services</h3>
 
                     <p>
-                        Our IT support services help businesses resolve
-                        technical issues and maintain their digital
-                        systems efficiently.
+                        Our plumbing services help customers maintain reliable
+                        water systems and solve common plumbing problems.
                     </p>
+
+                    <ul>
+                        <li>Leak repairs</li>
+                        <li>Pipe maintenance</li>
+                        <li>Tap repairs</li>
+                        <li>General plumbing work</li>
+                    </ul>
 
                 </article>
 
@@ -77,13 +132,19 @@
                 <!-- Service 3 -->
                 <article class="service-card">
 
-                    <h3>Digital Marketing</h3>
+                    <h3>Electrical Services</h3>
 
                     <p>
-                        We help businesses improve their online visibility
-                        and connect with their target customers through
-                        digital channels.
+                        We provide electrical maintenance services for common
+                        household and property electrical needs.
                     </p>
+
+                    <ul>
+                        <li>Light installation</li>
+                        <li>Electrical maintenance</li>
+                        <li>Switch and socket replacement</li>
+                        <li>Basic electrical repairs</li>
+                    </ul>
 
                 </article>
 
@@ -91,13 +152,19 @@
                 <!-- Service 4 -->
                 <article class="service-card">
 
-                    <h3>Business Software Solutions</h3>
+                    <h3>Painting &amp; Decoration</h3>
 
                     <p>
-                        We provide technology solutions that help
-                        businesses improve their daily processes and
-                        operational efficiency.
+                        We help improve the appearance of homes and properties
+                        through professional painting and decoration services.
                     </p>
+
+                    <ul>
+                        <li>Interior painting</li>
+                        <li>Exterior painting</li>
+                        <li>Wall preparation</li>
+                        <li>Property decoration</li>
+                    </ul>
 
                 </article>
 
@@ -105,13 +172,19 @@
                 <!-- Service 5 -->
                 <article class="service-card">
 
-                    <h3>Cloud Solutions</h3>
+                    <h3>Garden &amp; Landscaping</h3>
 
                     <p>
-                        Our cloud solutions provide businesses with
-                        flexible access to their digital resources
-                        and information.
+                        Our gardening and landscaping services help customers
+                        maintain attractive and well-organised outdoor spaces.
                     </p>
+
+                    <ul>
+                        <li>Grass cutting</li>
+                        <li>Garden maintenance</li>
+                        <li>Plant care</li>
+                        <li>Basic landscaping</li>
+                    </ul>
 
                 </article>
 
@@ -119,13 +192,19 @@
                 <!-- Service 6 -->
                 <article class="service-card">
 
-                    <h3>Data &amp; Analytics</h3>
+                    <h3>General Property Maintenance</h3>
 
                     <p>
-                        We help businesses organise and analyse their
-                        information to support better business
-                        decision-making.
+                        We provide general maintenance solutions to help keep
+                        residential and commercial properties in good condition.
                     </p>
+
+                    <ul>
+                        <li>Minor repairs</li>
+                        <li>Property maintenance</li>
+                        <li>Door and window maintenance</li>
+                        <li>General improvement work</li>
+                    </ul>
 
                 </article>
 
@@ -134,59 +213,87 @@
         </section>
 
 
-        <!-- Benefits Section -->
+        <!-- =========================
+             WHY CHOOSE OUR SERVICES
+             ========================= -->
         <section class="benefits">
 
-            <h2>Why Choose XYZ Master?</h2>
+            <h2>Why Choose Our Services?</h2>
 
+            <p>
+                At XYZ Master, we aim to provide dependable services that
+                meet the needs of our customers.
+            </p>
+
+            <!-- Unordered list -->
             <ul>
-                <li>Professional digital solutions</li>
-                <li>Responsive and user-friendly designs</li>
-                <li>Solutions tailored to business needs</li>
-                <li>Modern technologies</li>
-                <li>Reliable customer support</li>
+                <li>Reliable and professional service</li>
                 <li>Focus on customer satisfaction</li>
+                <li>Quality maintenance solutions</li>
+                <li>Services for homes and businesses</li>
+                <li>Convenient and practical solutions</li>
             </ul>
 
         </section>
 
 
-        <!-- Our Approach Section -->
+        <!-- =========================
+             OUR APPROACH
+             ========================= -->
         <section class="approach">
 
-            <h2>Our Approach</h2>
+            <h2>Our Service Approach</h2>
 
+            <p>
+                We follow a simple process to understand customer needs and
+                provide suitable maintenance solutions.
+            </p>
+
+            <!-- Ordered list -->
             <ol>
-                <li>Understand your requirements</li>
-                <li>Plan the appropriate solution</li>
-                <li>Develop the project</li>
-                <li>Test the solution</li>
-                <li>Deliver and provide support</li>
+                <li>Understand the customer's requirements.</li>
+                <li>Identify the service required.</li>
+                <li>Plan the work and required resources.</li>
+                <li>Complete the service professionally.</li>
+                <li>Ensure customer satisfaction.</li>
             </ol>
 
         </section>
 
 
-        <!-- Contact Section -->
+        <!-- =========================
+             CONTACT CALL-TO-ACTION
+             ========================= -->
         <section class="service-contact">
 
-            <h2>Interested in Our Services?</h2>
+            <h2>Need Our Services?</h2>
 
             <p>
-                Get in touch with XYZ Master to discuss your requirements.
+                Contact XYZ Master today to learn more about our home and
+                property maintenance services.
             </p>
 
-            <a href="contact.html">Contact Us</a>
+            <a href="contact.html" class="btn">
+                Contact Us
+            </a>
 
         </section>
 
     </main>
 
 
-    <!-- Footer -->
+    <!-- =========================
+         FOOTER
+         ========================= -->
     <footer>
 
-        <p>&copy; 2026 XYZ Master. All rights reserved.</p>
+        <p>
+            &copy; 2026 XYZ Master. All Rights Reserved.
+        </p>
+
+        <p>
+            Port Louis, Mauritius
+        </p>
 
     </footer>
 
