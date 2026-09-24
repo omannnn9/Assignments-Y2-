@@ -1,1 +1,251 @@
+1. Assignment Overview
 
+This is a group assignment worth 20 marks, divided equally:
+
+Question	Topic	Marks
+Q1	Dividend Policy – IslandTech Ltd	10
+Q2	Acquisition of TechWave Ltd	10
+Total		20
+
+The assignment is essentially testing critical thinking in Corporate/Business Finance, rather than simply asking for definitions.
+
+You need to do two things throughout the assignment:
+
+Explain the relevant theories/concepts correctly.
+Apply them to the IslandTech–TechWave situation and critically discuss them.
+
+The word "critically" is important. You should not just say "MM theory says X." You should explain:
+
+what the theory says;
+why it could apply to IslandTech;
+its assumptions/limitations;
+what another theory would argue;
+and therefore why there is no single universally correct dividend/acquisition decision.
+2. Question 1 – Dividend Policy [10 Marks]
+Scenario
+
+IslandTech is profitable and has investment opportunities, including the proposed acquisition of TechWave.
+
+One director says:
+
+If IslandTech can invest its earnings profitably, it should retain the money rather than pay dividends because shareholders will benefit from future growth.
+
+You must critically evaluate this statement using four dividend-policy theories.
+
+Required aspects
+
+You must cover all four:
+
+1. MM Dividend Irrelevance Theory
+
+Explain that under the Modigliani–Miller approach, dividend policy itself does not affect shareholder wealth under certain assumptions.
+
+Then discuss whether those assumptions realistically apply to IslandTech.
+
+2. Dividend Signalling Theory
+
+Explain that dividends can communicate information about management's expectations regarding future earnings/cash flows.
+
+For IslandTech:
+
+maintaining/increasing dividends may signal confidence;
+reducing dividends may be interpreted negatively;
+retaining earnings could also be justified if management has credible profitable investment opportunities.
+3. Agency Theory
+
+Discuss the conflict between:
+
+managers;
+shareholders.
+
+Retaining too much cash gives management more funds under its control, potentially creating agency problems. Paying dividends can reduce excess cash available for managerial misuse.
+
+But retaining earnings can also reduce dependence on external financing for genuinely profitable investments.
+
+4. Bird-in-the-Hand Argument
+
+Explain the argument that investors may prefer a certain current dividend over uncertain future capital gains.
+
+Then critically discuss its limitations and contrast it with MM's view.
+
+Q1 should ultimately connect back to IslandTech
+
+The question is specifically asking you to show that the theories can lead to different conclusions.
+
+For example:
+
+Retain earnings
+→ finance profitable investment/acquisition
+→ potentially increase future growth and shareholder wealth.
+
+But:
+
+Pay dividends
+→ provide shareholders with immediate returns
+→ potentially reduce agency problems
+→ may signal financial strength.
+
+So the final discussion should not simply say "IslandTech should retain earnings."
+
+Instead, explain the conditions under which retention or dividend payment may be appropriate.
+
+3. Question 2 – Acquisition [10 Marks]
+Scenario
+
+IslandTech wants to acquire TechWave.
+
+One director argues:
+
+IslandTech will become larger, gain market share and achieve economies of scale, therefore shareholder wealth will increase.
+
+You need to critically assess whether this reasoning is actually valid.
+
+Required aspects
+1. Main Motives for Acquisition
+
+Explain why IslandTech might acquire TechWave, such as:
+
+economies of scale;
+increased market share;
+revenue growth;
+access to customers/markets;
+operational efficiencies;
+access to technology or expertise;
+diversification, where relevant;
+potential synergies.
+
+Then connect these motives to the IslandTech–TechWave case.
+
+2. Sources of Synergy
+
+Explain what synergy means:
+
+The combined business can potentially create more value than the two companies could create separately.
+
+You can discuss:
+
+Operating synergies
+
+cost savings;
+elimination of duplicated functions;
+economies of scale;
+improved efficiency.
+
+Revenue synergies
+
+cross-selling;
+access to TechWave's customers;
+increased sales;
+stronger market position.
+
+Financial synergies
+
+potentially lower financing costs;
+better access to capital;
+more efficient use of financial resources.
+3. Risk of Overpaying
+
+This is a major critical point.
+
+Even if TechWave genuinely has valuable synergies, IslandTech can destroy shareholder wealth if it pays too much for those expected benefits.
+
+For example:
+
+Expected value from TechWave + expected synergies = MUR X
+
+But if IslandTech pays significantly more than the value created, the acquisition may transfer much of the expected benefit to TechWave's shareholders rather than IslandTech's shareholders.
+
+Therefore:
+
+Synergy ≠ guaranteed shareholder wealth creation.
+
+4. Integration & Financing Risks
+
+Discuss difficulties such as:
+
+different organisational cultures;
+employee resistance;
+loss of key employees;
+incompatible systems;
+management difficulties;
+unexpected integration costs;
+disruption to normal operations.
+
+Then discuss financing:
+
+If IslandTech uses debt:
+
+interest obligations increase;
+financial risk increases;
+cash flows may become more constrained.
+
+If it uses new equity:
+
+existing shareholders may experience dilution;
+issuing shares can affect ownership/control.
+
+Therefore, the method of financing matters.
+
+5. Size/Market Share ≠ Shareholder Wealth
+
+This is the key critical evaluation.
+
+A larger company is not automatically a more valuable company.
+
+Similarly:
+
+Higher market share does not automatically mean higher shareholder wealth.
+
+The acquisition creates shareholder wealth only if the value created exceeds the total cost of acquiring and integrating TechWave, including the acquisition premium and financing/integration costs.
+
+Therefore, the director's argument is incomplete.
+
+4. Recommended Overall Structure
+
+Because you only have 6 pages maximum, don't let everyone write completely independent sections that repeat the introduction/conclusion.
+
+A good structure would be:
+
+Cover Page
+
+Required:
+
+Group name
+Full name of each member
+Student ID
+Programme of study
+Table of Contents
+Introduction
+
+Briefly introduce:
+
+IslandTech;
+proposed TechWave acquisition;
+dividend-policy issue;
+purpose of the assignment.
+Q1 – Dividend Policy
+
+10 marks
+
+Introduction to dividend-policy decision
+MM dividend irrelevance theory
+Dividend signalling theory
+Agency theory
+Bird-in-the-hand argument
+Critical comparison/application to IslandTech
+Short Q1 conclusion
+Q2 – Acquisition of TechWave
+
+10 marks
+
+Introduction to acquisition decision
+Acquisition motives
+Sources of synergy
+Risk of overpaying
+Integration risks
+Financing risks
+Size/market share versus shareholder wealth
+Critical evaluation/conclusion
+References
+
+Harvard referencing.
