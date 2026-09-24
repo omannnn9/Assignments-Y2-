@@ -14,11 +14,265 @@
     <!-- Connects the page to the group's CSS file -->
     <link rel="stylesheet" href="style.css">
 
-    <!-- CSS for the contact page only (can be merged into style.css later) -->
-    <link rel="stylesheet" href="contact.css">
+    <!-- CSS for the contact page only (internal CSS) -->
+    <style>
+        /* =====================================================
+           STYLES for the contact page only.
+           All class names are new (contact-, details-, form-)
+           so they do not clash with the group's style.css.
+           Adjust the colours to match the rest of the website.
+           ===================================================== */
 
-    <!-- External JavaScript file containing the form validation functions -->
-    <script type="text/javascript" src="contact.js"></script>
+        /* ---------- Page heading ---------- */
+        .contact-intro {
+            text-align: center;
+            padding: 40px 20px 20px 20px;
+        }
+
+        .contact-intro p {
+            max-width: 700px;
+            margin: 10px auto;
+        }
+
+
+        /* ---------- Contact details boxes ---------- */
+        .contact-details {
+            text-align: center;
+            padding: 20px;
+        }
+
+        .details-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .details-box {
+            width: 220px;
+            padding: 20px;
+            border: 1px solid #cccccc;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+        }
+
+
+        /* ---------- Contact form ---------- */
+        .contact-form-section {
+            max-width: 650px;
+            margin: 20px auto 40px auto;
+            padding: 20px;
+        }
+
+        .contact-form-section h2,
+        .contact-form-section > p {
+            text-align: center;
+        }
+
+        .form-row {
+            margin-bottom: 18px;
+        }
+
+        .form-row label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 6px;
+        }
+
+        /* Labels placed next to radio buttons and checkboxes */
+        .form-row label.inline-label {
+            display: inline;
+            font-weight: normal;
+            margin-right: 15px;
+        }
+
+        .group-title {
+            font-weight: bold;
+            margin-bottom: 6px;
+        }
+
+        .form-row input[type="text"],
+        .form-row input[type="password"],
+        .form-row select,
+        .form-row textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #999999;
+            border-radius: 5px;
+            font-size: 1rem;
+            box-sizing: border-box;
+        }
+
+        .form-row small {
+            display: block;
+            margin-top: 4px;
+            color: #666666;
+        }
+
+        .contact-submit {
+            border: none;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+    </style>
+
+    <!-- Internal JavaScript containing the form validation functions -->
+    <script type="text/javascript">
+        /* =====================================================
+           JAVASCRIPT: client-side validation for the XYZ Master contact form.
+           Called from the form below with:
+           onsubmit="return(validate());"
+           ===================================================== */
+
+
+        /* -----------------------------------------------------
+           Data format validation: email address
+           The email must contain an @ and a dot (.).
+           The @ must not be the first character, and the last
+           dot must be at least one character after the @ sign.
+           ----------------------------------------------------- */
+        function validateEmail()
+        {
+            var emailID = document.contactForm.email.value;
+            var atpos = emailID.indexOf("@");
+            var dotpos = emailID.lastIndexOf(".");
+
+            if (atpos < 1 || (dotpos - atpos < 2) || dotpos == emailID.length - 1)
+            {
+                alert("Please enter a correct email address (example: name@example.com).");
+                document.contactForm.email.focus();
+                return false;
+            }
+            return true;
+        }
+
+
+        /* -----------------------------------------------------
+           Data format validation: phone number
+           Must be numbers only and 7 digits (landline)
+           or 8 digits (mobile).
+           ----------------------------------------------------- */
+        function validatePhone()
+        {
+            var phoneNumber = document.contactForm.phone.value;
+
+            if (isNaN(phoneNumber) || (phoneNumber.length != 7 && phoneNumber.length != 8))
+            {
+                alert("Please enter a phone number with 7 or 8 digits only (no spaces or letters).");
+                document.contactForm.phone.focus();
+                return false;
+            }
+            return true;
+        }
+
+
+        /* -----------------------------------------------------
+           Basic validation: main function
+           Checks every field one by one. As soon as one field is
+           wrong, an alert is shown, the field is selected and
+           false is returned so the form is NOT submitted.
+           ----------------------------------------------------- */
+        function validate()
+        {
+            /* ---------- Name ---------- */
+            if (document.contactForm.fullName.value == "")
+            {
+                alert("Please provide your name!");
+                document.contactForm.fullName.focus();
+                return false;
+            }
+
+            /* ---------- Email (empty check, then format check) ---------- */
+            if (document.contactForm.email.value == "")
+            {
+                alert("Please provide your email address!");
+                document.contactForm.email.focus();
+                return false;
+            }
+            if (validateEmail() == false)
+            {
+                return false;
+            }
+
+            /* ---------- Password ---------- */
+            if (document.contactForm.password.value == "")
+            {
+                alert("Please provide a password!");
+                document.contactForm.password.focus();
+                return false;
+            }
+            if (document.contactForm.password.value.length < 6)
+            {
+                alert("Your password must contain at least 6 characters!");
+                document.contactForm.password.focus();
+                return false;
+            }
+
+            /* ---------- Phone number (empty check, then format check) ---------- */
+            if (document.contactForm.phone.value == "")
+            {
+                alert("Please provide your phone number!");
+                document.contactForm.phone.focus();
+                return false;
+            }
+            if (validatePhone() == false)
+            {
+                return false;
+            }
+
+            /* ---------- Dropdown ---------- */
+            if (document.contactForm.service.value == "-1")
+            {
+                alert("Please choose the service you require!");
+                document.contactForm.service.focus();
+                return false;
+            }
+
+            /* ---------- Radio buttons: one must be selected ---------- */
+            var methodChosen = false;
+            for (var i = 0; i < document.contactForm.contactMethod.length; i++)
+            {
+                if (document.contactForm.contactMethod[i].checked)
+                {
+                    methodChosen = true;
+                }
+            }
+            if (methodChosen == false)
+            {
+                alert("Please choose your preferred method of contact!");
+                return false;
+            }
+
+            /* ---------- Checkboxes: at least one time must be ticked ---------- */
+            if (!document.contactForm.morning.checked &&
+                !document.contactForm.afternoon.checked &&
+                !document.contactForm.evening.checked)
+            {
+                alert("Please tick at least one best time to contact you!");
+                return false;
+            }
+
+            /* ---------- Message ---------- */
+            if (document.contactForm.message.value == "")
+            {
+                alert("Please write your message!");
+                document.contactForm.message.focus();
+                return false;
+            }
+
+            /* ---------- Agreement checkbox ---------- */
+            if (document.contactForm.consent.checked == false)
+            {
+                alert("Please tick the box to agree that we may contact you!");
+                return false;
+            }
+
+            /* ---------- Everything is correct ---------- */
+            alert("Thank you! Your enquiry has been sent to XYZ Master.");
+            return true;
+        }
+    </script>
 
     <!-- Website logo -->
     <link rel="icon" type="image/png" href="images/logo.png">
@@ -129,7 +383,7 @@
     <!-- =========================
          CONTACT FORM
 
-         - onsubmit calls validate() from contact.js.
+         - onsubmit calls validate() (see the script in the head).
            The form is only sent if validate() returns true.
          - action is left blank for now. When the back end is
            written (PHP), it will point to the PHP file,
@@ -261,4 +515,3 @@
 </body>
 
 </html>
-
