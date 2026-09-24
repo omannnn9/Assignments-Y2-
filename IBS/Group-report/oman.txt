@@ -1,6 +1,6 @@
 Walk-in process
 
-The walk-in process is the process that occurs when a member walks into the MyLib library and requests a book. The process ensures that the service or book requested by the member is provided and alternate routes are taken if the requested book is not available on the shelf of the library.
+The walk-in process is the process that occurs when a member walks into the MyLib library and requests a book. This process ensures that the book requested by the member is provided and alternate routes are taken if the requested book is not available on the shelf of the library or even elsewhere in the library network.
 
 The process starts when a member of the library walks in and verification or registration is done at the front desk of the library. To register as a member, the person must provide their National identity card or show their membership card if they are already a member. Once the details of the member has been verified, the member is directed to the library assistant and new members are given their membership card.
 
@@ -8,9 +8,9 @@ Then, the member requests the specific book that they need to the library assist
 
 If the book requested by the member is available on the shelf of the library, the librarian follows the normal borrowing process which is he scans the book, scans the membership card and then records the book loan and issues the loaned book to the member.
 
-However, other alternatives are considered if the book requested is not available on the library shelf. The librarian checks through the library network whether the book is available at any other branch or may be requested from another branch within the library network. If so, an Inter-Library Loan is requested, and the process for an Inter-Library Loan is followed. Availability at the other branch is then confirmed, and a loan order is placed; the member will be notified when the book arrives at the library and can pick it up at the front desk.
+However, other alternatives are considered if the book requested is not available on the library shelf. The librarian checks through the library network whether the book is available at any other branch or may be requested from another branch within the library network. If so, an Inter-Library Loan is requested, and the process for an Inter-Library Loan is followed. Availability at the other branch is then confirmed, and a loan order is placed. The member is then notified when the book arrives at the library and can pick it up at the front desk.
 
 Otherwise, if the book is unavailable anywhere, the librarian will suggest other or similar books available on the library shelf or elsewhere to the member.
 
-The Walk-in process diagram illustrates the flow that happens when a member walks in the library and the different outcomes of each process. Gateways are used to represent decision flows for example on book availability. The diagram visually represents how the library staff handles member requests and how they work together in order to satisfy members. It also shows how member requests are handled when a book or service is unavailable
+The Walk-in process diagram illustrates the flow that happens when a member walks in the library and the different outcomes of each process. Gateways are used to represent decision flows for example on book availability. The diagram visually represents how the library staff handles member requests and how each employees work together in order to satisfy library members. It also shows how member requests are handled when a specific book is unavailable
 
