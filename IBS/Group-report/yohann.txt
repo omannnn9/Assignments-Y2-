@@ -3,6 +3,22 @@ Our report analyses different process of the MyLib Public Library Information Sy
 The purpose of our report is to model and evaluate the key processes of MyLib using the appropriate diagrams and process analysis techniques. Our report includes a Collaboration Diagram illustrating the interactions between participants, a Walk-in Member Services Process Diagram, and a Pre-Booked Study Room Reservation Process Diagram. Our diagram models provides a clear understanding of information required, responsibilities of staff members, and the services offered to library members.
 In addition, our report identifies all weaknesses within the current library operations and provides improvements that can be done through the MyLib Information System to enhance efficiency, service quality, and the overall member experience.
 
+Weaknesses and Improvements
+Weakness 1: Manual Member Registration Process
+The registration process requires visitors to provide their details manually at the front desk before receiving a membership card. This can result in long waiting times, increased workload for staff, and possible data entry errors.
+Recommended Improvement:
+Implement an online membership registration portal where visitors can create their accounts and submit personal details before arriving at the library. This would reduce processing time and improve data accuracy.
+
+Weakness 2: Manual Study Room Reservation Management
+Study room reservations are recorded in a reservation book and checked manually by reception staff. This approach can lead to scheduling conflicts, double bookings, and difficulties in managing reservations efficiently. 
+Recommended Improvement:
+Introduce an electronic reservation management system that allows staff and members to view room availability in real time. Members could also make reservations online, reducing administrative effort and improving booking accuracy.
+
+Weakness 3: Limited Book Availability Information for Members
+When a requested book is unavailable, the librarian must manually check the catalogue and other library branches before informing the member about availability or reservation options. 
+Recommended Improvement:
+Develop an integrated online catalogue system that enables members to search for books, check availability across branches, place reservations, and track inter-library loan requests independently. This would improve convenience and reduce reliance on staff assistance.
+
 
 Conclusion
 After analysing the MyLib Public Library Information System, our diagrams and report demonstrates how the library manages both walk-in services and pre-booked study room reservations through a series of coordinated interactions between members, reception staff, library assistants, librarians, and supporting systems. The diagrams developed by our teamin this report provide a clear representation of these processes and highlight the series of activities involved in delivering library services. 
