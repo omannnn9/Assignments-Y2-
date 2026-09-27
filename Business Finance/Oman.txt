@@ -1,1 +1,7 @@
+Modigliani and Miller (MM) Dividend irrelevance Theory
+
+The MM Dividend theory states that under perfect market conditions, a company's dividend policy does not affect shareholder wealth. The MM theory states that shareholders do not care whether profit is re invested in the company for future projects or distributed among shareholders as dividends. 
+
+The MM theory is only relevant when assumptions such as 0 taxes, no transaction costs and no information asymmetry are made. Another assumption is that managers, ceos and shareholders have access to the same company information and therefore agree on the same decisions. Share holder wealth is determined by the net value of the company rather than just profits or earnings.
+
 
