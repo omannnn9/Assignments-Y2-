@@ -4,4 +4,8 @@ The MM Dividend theory states that under perfect market conditions, a company's 
 
 The MM theory is only relevant when assumptions such as 0 taxes, no transaction costs and no information asymmetry are made. Another assumption is that managers, ceos and shareholders have access to the same company information and therefore agree on the same decisions. Share holder wealth is determined by the net value of the company rather than just profits or earnings.
 
+At IslandTech, the company has decided to retain earnings rather than distribute dividends. For example, the proposed acquisition of TechWave. Retained earnings will be used to finance future projects that are expected to be profitable and thus increasing shareholder wealth. This could benefit shareholders by increasing the value of the company.
+
+Finally, shareholders may not have the same opinion about the MM theory as they may have different views on how dividends are handled. To conclude, while the MM theory provides a useful framework for companies to analyse their dividend policy. While the MM theory is useful, it is crucial for IslandTech to find the right balance between dividends and investing decisions. 
+
 
