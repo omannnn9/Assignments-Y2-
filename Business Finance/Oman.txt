@@ -8,10 +8,17 @@ At IslandTech, the company has decided to retain earnings rather than distribute
 
 Finally, shareholders may not have the same opinion about the MM theory as they may have different views on how dividends are handled. To conclude, while the MM theory provides a useful framework for companies to analyse their dividend policy. While the MM theory is useful, it is crucial for IslandTech to find the right balance between dividends and investing decisions. 
 
+
 Dividend Signalling Theory
 
 The dividend signalling theory explains that the dividend policy of a company can be used to communicate about the company's future financial performance to investors and shareholders. Beacuse managers tend to have more information about the company's financial position compared to investors and shareholders, the dividend may act as a signal for future earnings and the company's financial position.
 
+According to the dividend signalling theory, if the dividends of a company increases or stays the same, if indicates that the company is confident about future cash flows and earnings. Otherwise a decrease in dividend may signal that the company is not confident about future cash flows and earnings. Thus, dividend signalling can increase or decrease investor confidence and affect the market value of the company.
 
+At IslandTech Ltd, retaining earnings may lead to different behaviors from investors and shareholders. If the retention of earnings is not communicated properly, investors and shareholders may view it negatively as if the company is facing financial difficulties. It must be clearly stated that earnings are retained so that they will be reinvested in profitable projects, for example, the acquisition of TechWave Ltd.
 
+Dividend signalling theory may not always be viewed positively. When dividends decrease, investors may think that the company is struggling financially and therefore may reduce their investing activities. Therefore dividend signalling should be considered along other financial information about the company before making any investment decisions.
 
+Conclusion
+
+To conclude the MM Dividend irrelevance and dividend signalling theory provides different views on a company's dividend policy. If the MM theory is used for IslandTech's dividend policy, retaining earnings and profits instead of issuing dividends to shareholders should not affect shareholder wealth as long as the earnings are used to invest in profitable projects, for example the proposed acquisition of TechWave Ltd. On the other hand, if the dividend signalling theory is used, decreasing dividends can decrease investor confidence which leads to a decrease in investing activities. Thus, when choosing the correct dividend theory, the company's management team should choose the one which is the most aligned with shareholder wealth maximization and shareholder goals.
