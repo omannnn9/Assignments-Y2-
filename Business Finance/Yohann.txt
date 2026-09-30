@@ -1,1 +1,34 @@
++Agency Theory+
+
+Agency theory focuses on the potential conflict between shareholders (principals) and managers (agents). Shareholders generally aim to maximise their wealth, while managers may sometimes make decisions that benefit themselves rather than shareholders.
+
+Retaining large amounts of earnings can create an agency problem because managers have greater control over the company’s cash. They may invest in unnecessary projects or acquisitions that increase the size of the company but do not generate sufficient returns for shareholders. Paying dividends can reduce the amount of excess cash available to managers and therefore encourage greater financial discipline.
+
+For IslandTech Ltd, retaining earnings to finance the proposed acquisition of TechWave Ltd could create an agency concern if management pursues the acquisition for its own interests rather than shareholder value. However, if the acquisition is expected to generate sufficient returns and increase shareholder wealth, retaining earnings can be justified. Therefore, IslandTech should assess the expected benefits and risks of the acquisition rather than retaining earnings simply because management prefers to do so.
+
+However, dividends also have a limitation. Paying out earnings reduces the funds available for profitable investments and may require IslandTech to obtain external financing. Therefore, IslandTech needs to balance the reduction of agency problems against the benefits of retaining funds for worthwhile investments.
+
+
++Bird-in-the-Hand Argument+
+
+The Bird-in-the-Hand argument suggests that some investors may prefer current dividends because they provide a more immediate return than uncertain future capital gains. Future increases in share value depend on the company’s performance and market conditions, making them less certain.
+
+For IslandTech, shareholders who prefer regular income may favour receiving dividends rather than having all profits retained for the TechWave acquisition. Although the acquisition could generate future profits and increase shareholder wealth, its success is not guaranteed. Paying some dividends could therefore provide shareholders with an immediate return while the company continues to invest in growth opportunities.
+
+However, this argument has limitations. MM theory suggests that under perfect market conditions, investors should be indifferent between receiving dividends and obtaining returns through future capital gains. In addition, shareholders who require cash could potentially sell part of their shares. Therefore, the preference for dividends may differ between shareholders depending on their financial objectives and risk preferences.
+
++Critical Comparison of the Four Theories+
+
+The four theories provide different perspectives on IslandTech’s dividend decision:
+
+Theory	Implication for IslandTech
+MM	- Dividend policy should not affect shareholder wealth under perfect-market assumptions.
+Signalling	- Dividend changes may communicate management’s expectations about future performance.
+Agency	- Dividends can reduce excess cash under management’s control and limit potential agency problems.
+Bird-in-the-Hand - Some shareholders may prefer immediate dividends over uncertain future gains.
+
+
+Therefore, the theories do not produce the same conclusion. Retaining earnings could support IslandTech’s future growth if the TechWave acquisition is profitable, while paying dividends could provide immediate shareholder returns, reduce excess managerial cash and potentially maintain investor confidence.
+
+Consequently, IslandTech should consider the expected profitability of the TechWave acquisition, its financial requirements, and shareholder preferences when determining its dividend policy. No single theory fully explains the appropriate decision, so the company should balance the benefits of reinvestment with the benefits of distributing earnings to shareholders.
 
