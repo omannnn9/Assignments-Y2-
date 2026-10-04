@@ -1,1 +1,21 @@
+When a company acquires another, it often pays an acquisition premium above the market price of the target. It pays the premium because it believes synergies like cost savings, higher revenue, and stronger market position will materialise and outweigh the extra cost. If they do not, shareholder value may be destroyed. Over-optimism (managers believe the future profits will be higher than present) and rival bidding (price is driven higher than justified) are other reasons. Jensen’s (1986) agency cost view suggests that managers with excess cash pursue acquisitions for prestige or to broaden control rather than to maximise shareholder wealth. Any excess payment beyond the value created by the synergies simply transfers wealth from IslandTech shareholders to TechWave’s shareholders. Synergies do not actually create value for IslandTech’s shareholders if the company overpays for the acquisition. For IslandTech’s board, the priority is to set a strict price ceiling, double-check the synergy numbers using worst-case scenarios, and plan integration early before agreeing a deal.
+
+Even at a fair price, combining two companies can create conflicts and make integration harder as IslandTech and TechWave may have different ways of working, management styles, and company cultures. If the new conditions do not suit the skilled TechWave employees, IslandTech will forgo the expected technical knowledge and expertise. The integration of both companies' IT systems and software will take time and may require additional money and technical resources. Managers may also face increasing pressure as they focus too much on integration instead of running the business, which disrupts productivity and customer service. 
+
+According to McKinsey & Company's (2023) Global Survey on M&A capabilities, cultural differences and friction between companies are among the leading reasons integration projects fail to deliver. Since TechWave is a tech company, IslandTech must focus on retaining skilled technical employees as well as integrating IT systems. It can mitigate these risks through careful planning, communication and early assessment of systems. Yet, there will be some integration costs and disruption remaining. IslandTech should not assume that all expected synergies will be achieved.
+
+KPMG’s analysis of over 3,000 large M&A deals showed that 57.2% of acquirers ultimately destroyed shareholder value. The study shows that acquirers overestimate the value of an acquisition but underestimate the effects of integration. Consequently, IslandTech must have a plan and a budget in place to achieve the cost savings and synergies that it anticipates gaining from the acquisition of TechWave. Spending heavily on new systems, training, and restructuring could reduce the actual benefits and value delivered to shareholders compared with the original estimate.
+
+
+
+References:
+
+Jensen, M.C. (1986) 'Agency costs of free cash flow, corporate finance, and takeovers', American Economic Review, 76(2), pp. 323–329.
+
+KPMG (2025) The M&A Dance: Orchestrating Synergies and Value Creation in Public Company Acquisitions. KPMG. Available at: https://kpmg.com/xx/en/our-insights/value-creation/the-m-and-a-dance-orchestrating-synergies-and-value-creation-in-public-company-acquisitions.html (Accessed: 2 October 2026).
+
+McKinsey & Company (2023) Why managing culture is critical for value creation in M&A. McKinsey & Company. Available at: https://www.mckinsey.com/capabilities/m-and-a/our-insights/why-managing-culture-is-critical-for-value-creation-in-m-and-a (Accessed: 2 October 2026).
+
+
+
 
