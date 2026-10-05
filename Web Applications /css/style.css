@@ -1356,3 +1356,179 @@ footer {
     }
 
 }
+/* =========================================================
+   TESTIMONIALS
+   ========================================================= */
+
+.testimonials {
+    padding: 110px 8%;
+
+    background: #f3efe6;
+}
+
+
+.testimonials-header {
+    max-width: 700px;
+
+    margin-bottom: 60px;
+}
+
+
+.testimonials-header h2 {
+    margin: 15px 0 20px;
+
+    font-family: "Cormorant Garamond", serif;
+
+    font-size: clamp(3rem, 5vw, 4.5rem);
+
+    line-height: 0.95;
+
+    font-weight: 500;
+}
+
+
+.testimonials-header h2 span {
+    color: #c5a46d;
+    font-style: italic;
+}
+
+
+.testimonials-header p {
+    color: #666;
+
+    line-height: 1.8;
+}
+
+
+.testimonial-grid {
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+
+    gap: 20px;
+
+    max-width: 1300px;
+
+    margin: auto;
+}
+
+
+.testimonial-card {
+    position: relative;
+
+    padding: 35px;
+
+    background: #ffffff;
+
+    border: 1px solid rgba(16, 21, 19, 0.08);
+
+    transition:
+        transform 0.4s ease,
+        box-shadow 0.4s ease;
+}
+
+
+.testimonial-card:hover {
+    transform: translateY(-7px);
+
+    box-shadow: 0 20px 40px rgba(16, 21, 19, 0.1);
+}
+
+
+.quote-mark {
+    color: #c5a46d;
+
+    font-family: "Cormorant Garamond", serif;
+
+    font-size: 4rem;
+
+    line-height: 0.5;
+
+    margin-bottom: 25px;
+}
+
+
+.testimonial-card > p {
+    min-height: 100px;
+
+    color: #555;
+
+    font-size: 0.9rem;
+
+    line-height: 1.7;
+}
+
+
+.testimonial-person {
+    display: flex;
+
+    align-items: center;
+
+    gap: 15px;
+
+    margin-top: 25px;
+
+    padding-top: 20px;
+
+    border-top: 1px solid rgba(16, 21, 19, 0.1);
+}
+
+
+.person-avatar {
+    width: 45px;
+    height: 45px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex-shrink: 0;
+
+    background: #101513;
+
+    color: #c5a46d;
+
+    font-size: 0.75rem;
+
+    font-weight: 600;
+}
+
+
+.testimonial-person strong {
+    display: block;
+
+    margin-bottom: 4px;
+
+    color: #101513;
+
+    font-size: 0.85rem;
+}
+
+
+.testimonial-person span {
+    color: #888;
+
+    font-size: 0.72rem;
+}
+
+
+@media (max-width: 900px) {
+
+    .testimonial-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+
+@media (max-width: 600px) {
+
+    .testimonials {
+        padding: 80px 5%;
+    }
+
+    .testimonial-grid {
+        grid-template-columns: 1fr;
+    }
+
+}
