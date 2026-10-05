@@ -1532,3 +1532,94 @@ footer {
     }
 
 }
+
+/* =========================================================
+   GLOBAL SMOOTH TRANSITIONS
+   ========================================================= */
+
+a,
+button,
+.service-card,
+.feature-box,
+.why-card,
+.professional-service-card,
+.testimonial-card,
+.hero-btn {
+    transition:
+        transform 0.35s ease,
+        background-color 0.35s ease,
+        color 0.35s ease,
+        border-color 0.35s ease,
+        box-shadow 0.35s ease,
+        opacity 0.35s ease;
+}
+
+
+/* Smooth button movement */
+
+button:hover,
+.hero-btn:hover {
+    transform: translateY(-3px);
+}
+
+
+/* Smooth service card movement */
+
+.service-card:hover,
+.professional-service-card:hover,
+.testimonial-card:hover {
+    transform: translateY(-7px);
+}
+
+/* =========================================================
+   SCROLL REVEAL ANIMATION
+   ========================================================= */
+
+.reveal {
+    opacity: 0;
+
+    transform: translateY(40px);
+
+    transition:
+        opacity 0.8s ease,
+        transform 0.8s ease;
+}
+
+
+.reveal.show {
+    opacity: 1;
+
+    transform: translateY(0);
+}
+
+
+/* Animation delays */
+
+.reveal-delay-1 {
+    transition-delay: 0.1s;
+}
+
+.reveal-delay-2 {
+    transition-delay: 0.2s;
+}
+
+.reveal-delay-3 {
+    transition-delay: 0.3s;
+}
+
+.reveal-delay-4 {
+    transition-delay: 0.4s;
+}
+
+
+/* Respect users who prefer reduced motion */
+
+@media (prefers-reduced-motion: reduce) {
+
+    .reveal {
+        opacity: 1;
+        transform: none;
+        transition: none;
+    }
+
+}
