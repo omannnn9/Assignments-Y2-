@@ -1146,3 +1146,137 @@ footer {
     }
 
 }
+/* =========================================================
+   WHY CHOOSE XYZ MASTER
+   ========================================================= */
+
+.why-choose {
+    padding: 110px 8%;
+
+    background: #101513;
+
+    color: #f3efe6;
+}
+
+
+.why-header {
+    max-width: 750px;
+
+    margin-bottom: 65px;
+}
+
+
+.why-header h2 {
+    margin: 15px 0 20px;
+
+    font-family: "Cormorant Garamond", serif;
+
+    font-size: clamp(3rem, 5vw, 4.5rem);
+
+    line-height: 0.95;
+
+    font-weight: 500;
+}
+
+
+.why-header h2 span {
+    color: #c5a46d;
+    font-style: italic;
+}
+
+
+.why-header p {
+    max-width: 600px;
+
+    color: rgba(243, 239, 230, 0.7);
+
+    line-height: 1.8;
+}
+
+
+.why-grid {
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+
+    gap: 1px;
+
+    background: rgba(243, 239, 230, 0.15);
+}
+
+
+.why-card {
+    position: relative;
+
+    min-height: 260px;
+
+    padding: 35px;
+
+    background: #101513;
+
+    transition:
+        background 0.4s ease,
+        transform 0.4s ease;
+}
+
+
+.why-card:hover {
+    background: #171e1b;
+
+    transform: translateY(-5px);
+}
+
+
+.why-number {
+    display: block;
+
+    margin-bottom: 60px;
+
+    color: #c5a46d;
+
+    font-size: 0.75rem;
+
+    letter-spacing: 2px;
+}
+
+
+.why-card h3 {
+    margin-bottom: 15px;
+
+    font-family: "Cormorant Garamond", serif;
+
+    font-size: 1.8rem;
+
+    font-weight: 500;
+}
+
+
+.why-card p {
+    color: rgba(243, 239, 230, 0.65);
+
+    font-size: 0.9rem;
+
+    line-height: 1.7;
+}
+
+
+@media (max-width: 900px) {
+
+    .why-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+
+@media (max-width: 600px) {
+
+    .why-choose {
+        padding: 80px 5%;
+    }
+
+    .why-grid {
+        grid-template-columns: 1fr;
+    }
+
+}
