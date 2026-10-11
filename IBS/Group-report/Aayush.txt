@@ -1,4 +1,4 @@
-The collaboration diagram illustrates the communication bet MyLib and the parties involved in its services. This included 5 pools, whereby the Member is the visitor, and MyLib is the library, split into 3 lanes: Front Desk, Library Assistant and Librarian. There are also, 3 outside parties involved in the process: the Catalogue system, the Other Library Branch and the Reservation system.
+The collaboration diagram illustrates the communication between MyLib and the parties involved in its services. This included 5 pools, whereby the Member is the visitor, and MyLib is the library, split into 3 lanes: Front Desk, Library Assistant and Librarian. There are also, 3 outside parties involved in the process: the Catalogue system, the Other Library Branch and the Reservation system.
 
 The interactions are illustrated using the dotted message flows, which are numbered from 1 to 21, to make the order easy to follow.
 
